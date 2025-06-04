@@ -1963,7 +1963,7 @@
         "bold": {
           "value": {
             "fontFamily": "{fontFamily.numberBlack}",
-            "fontWeight": "Bold",
+            "fontWeight": "Thin",
             "fontSize": "{body.b4}",
             "lineHeight": "{lineHight.l-tight}"
           },
