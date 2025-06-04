@@ -1974,7 +1974,7 @@
         "bold": {
           "value": {
             "fontFamily": "{fontFamily.numberBold}",
-            "fontWeight": "Light",
+            "fontWeight": "Bold",
             "fontSize": "{heading.h7}",
             "lineHeight": "{lineHight.l-tight}"
           },
