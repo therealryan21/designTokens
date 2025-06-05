@@ -1974,7 +1974,7 @@
         "black": {
           "value": {
             "fontFamily": "{fontFamily.numberBlack}",
-            "fontWeight": "Thin",
+            "fontWeight": "Black",
             "fontSize": "{body.b6}",
             "lineHeight": "{lineHight.l-tight}"
           },
