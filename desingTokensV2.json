@@ -1970,6 +1970,17 @@
           "type": "typography"
         }
       },
+      "n2": {
+        "black": {
+          "value": {
+            "fontFamily": "{fontFamily.numberBlack}",
+            "fontWeight": "Black",
+            "fontSize": "{body.b6}",
+            "lineHeight": "{lineHight.l-tight}"
+          },
+          "type": "typography"
+        }
+      },
       "n5": {
         "bold": {
           "value": {
