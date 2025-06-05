@@ -1160,6 +1160,14 @@
       "h7": {
         "value": "28",
         "type": "fontSizes"
+      },
+      "h8": {
+        "value": "30",
+        "type": "fontSizes"
+      },
+      "h9": {
+        "value": "32",
+        "type": "fontSizes"
       }
     },
     "paragraph": {
