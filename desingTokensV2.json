@@ -2000,6 +2000,17 @@
           "type": "typography"
         }
       },
+      "n6": {
+        "black": {
+          "value": {
+            "fontFamily": "{fontFamily.numberBold}",
+            "fontWeight": "Black",
+            "fontSize": "{heading.h9}",
+            "lineHeight": "{lineHight.l-tight}"
+          },
+          "type": "typography"
+        }
+      },
       "b4p": {
         "regular": {
           "value": {
