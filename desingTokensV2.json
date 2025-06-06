@@ -2036,7 +2036,7 @@
             "fontFamily": "{fontFamily.default}",
             "fontWeight": "Regular",
             "fontSize": "{body.b2}",
-            "lineHeight": "{lineHight.l-default}"
+            "lineHeight": "{lineHight.l-tight}"
           },
           "type": "typography",
           "description": "用于单行文本"
