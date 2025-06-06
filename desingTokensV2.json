@@ -1128,6 +1128,10 @@
       "numberBold": {
         "value": "Akrobat",
         "type": "fontFamilies"
+      },
+      "numberExtraBold": {
+        "value": "Akrobat",
+        "type": "fontFamilies"
       }
     },
     "lineHight": {
@@ -2174,6 +2178,18 @@
             "fontFamily": "{fontFamily.numberBlack}",
             "fontWeight": "Black",
             "fontSize": "{body.b6}",
+            "lineHeight": "{lineHight.l-tight}"
+          },
+          "type": "typography",
+          "description": "用于特殊数字"
+        }
+      },
+      "n4": {
+        "ExtraBold": {
+          "value": {
+            "fontFamily": "{fontFamily.numberExtraBold}",
+            "fontWeight": "ExtraBold",
+            "fontSize": "{heading.h6}",
             "lineHeight": "{lineHight.l-tight}"
           },
           "type": "typography",
