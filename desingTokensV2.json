@@ -925,39 +925,48 @@
     "sizing": {
       "s1": {
         "value": "12",
-        "type": "sizing"
+        "type": "sizing",
+        "description": "常用于图标、卡片"
       },
       "s2": {
         "value": "16",
-        "type": "sizing"
+        "type": "sizing",
+        "description": "常用于图标、卡片"
       },
       "s3": {
         "value": "24",
-        "type": "sizing"
+        "type": "sizing",
+        "description": "常用于图标、卡片"
       },
       "s4": {
         "value": "32",
-        "type": "sizing"
+        "type": "sizing",
+        "description": "常用于图标、卡片"
       },
       "s5": {
         "value": "40",
-        "type": "sizing"
+        "type": "sizing",
+        "description": "常用于图标、卡片"
       },
       "s6": {
         "value": "48",
-        "type": "sizing"
+        "type": "sizing",
+        "description": "常用于图标、卡片"
       },
       "s7": {
         "value": "56",
-        "type": "sizing"
+        "type": "sizing",
+        "description": "常用于图标、卡片"
       },
       "s8": {
         "value": "64",
-        "type": "sizing"
+        "type": "sizing",
+        "description": "常用于图标、卡片"
       },
       "s9": {
         "value": "88",
-        "type": "sizing"
+        "type": "sizing",
+        "description": "常用于图标、卡片"
       }
     },
     "spacing": {
@@ -969,9 +978,40 @@
         "value": "4",
         "type": "spacing"
       },
+      "sp5": {
+        "value": "5",
+        "type": "spacing",
+        "description": "常用于行间距"
+      },
+      "sp6": {
+        "value": "6",
+        "type": "spacing",
+        "description": "常用于行间距"
+      },
+      "sp7": {
+        "value": "7",
+        "type": "spacing",
+        "description": "常用于行间距"
+      },
       "sp8": {
         "value": "8",
-        "type": "spacing"
+        "type": "spacing",
+        "description": "常用于行间距"
+      },
+      "sp9": {
+        "value": "9",
+        "type": "spacing",
+        "description": "常用于行间距"
+      },
+      "sp10": {
+        "value": "10",
+        "type": "spacing",
+        "description": "常用于行间距"
+      },
+      "sp11": {
+        "value": "11",
+        "type": "spacing",
+        "description": "常用于行间距"
       },
       "sp12": {
         "value": "12",
@@ -1035,27 +1075,33 @@
     "opacity": {
       "o0": {
         "value": "0",
-        "type": "opacity"
+        "type": "opacity",
+        "description": "仅用于不透明度"
       },
       "o40": {
         "value": "0.4",
-        "type": "opacity"
+        "type": "opacity",
+        "description": "仅用于不透明度"
       },
       "o50": {
         "value": "0.5",
-        "type": "opacity"
+        "type": "opacity",
+        "description": "仅用于不透明度"
       },
       "o70": {
         "value": "0.7",
-        "type": "opacity"
+        "type": "opacity",
+        "description": "仅用于不透明度"
       },
       "o80": {
         "value": "0.8",
-        "type": "opacity"
+        "type": "opacity",
+        "description": "仅用于不透明度"
       },
       "o100": {
         "value": "1",
-        "type": "opacity"
+        "type": "opacity",
+        "description": "仅用于不透明度"
       }
     },
     "fontFamily": {
@@ -1083,91 +1129,112 @@
     "lineHight": {
       "l-default": {
         "value": "150%",
-        "type": "lineHeights"
+        "type": "lineHeights",
+        "description": "仅用于设计内部使用，开发用spacing设置行间距"
       },
       "l-tight": {
         "value": "100%",
-        "type": "lineHeights"
+        "type": "lineHeights",
+        "description": "仅用于设计内部使用，开发用spacing设置行间距"
       },
       "l-paragraph": {
         "value": "180%",
-        "type": "lineHeights"
+        "type": "lineHeights",
+        "description": "仅用于设计内部使用，开发用spacing设置行间距"
       }
     },
     "body": {
       "b0": {
         "value": "10",
-        "type": "fontSizes"
+        "type": "fontSizes",
+        "description": "用于内容文本，非标题"
       },
       "b1": {
         "value": "11",
-        "type": "fontSizes"
+        "type": "fontSizes",
+        "description": "用于内容文本，非标题"
       },
       "b2": {
         "value": "12",
-        "type": "fontSizes"
+        "type": "fontSizes",
+        "description": "用于内容文本，非标题"
       },
       "b3": {
         "value": "13",
-        "type": "fontSizes"
+        "type": "fontSizes",
+        "description": "用于内容文本，非标题"
       },
       "b4": {
         "value": "14",
-        "type": "fontSizes"
+        "type": "fontSizes",
+        "description": "用于内容文本，非标题"
       },
       "b5": {
         "value": "15",
-        "type": "fontSizes"
+        "type": "fontSizes",
+        "description": "用于内容文本，非标题"
       },
       "b6": {
         "value": "16",
-        "type": "fontSizes"
+        "type": "fontSizes",
+        "description": "用于内容文本，非标题"
       },
       "b7": {
         "value": "20",
-        "type": "fontSizes"
+        "type": "fontSizes",
+        "description": "用于内容文本，非标题"
       }
     },
     "heading": {
       "h0": {
         "value": "12",
-        "type": "fontSizes"
+        "type": "fontSizes",
+        "description": "常用于标题"
       },
       "h1": {
         "value": "14",
-        "type": "fontSizes"
+        "type": "fontSizes",
+        "description": "常用于标题"
       },
       "h2": {
         "value": "16",
-        "type": "fontSizes"
+        "type": "fontSizes",
+        "description": "常用于标题"
       },
       "h3": {
         "value": "18",
-        "type": "fontSizes"
+        "type": "fontSizes",
+        "description": "常用于标题"
       },
       "h4": {
         "value": "20",
-        "type": "fontSizes"
+        "type": "fontSizes",
+        "description": "常用于标题"
       },
       "h5": {
         "value": "22",
-        "type": "fontSizes"
+        "type": "fontSizes",
+        "description": "常用于标题"
       },
       "h6": {
         "value": "24",
-        "type": "fontSizes"
+        "type": "fontSizes",
+        "description": "常用于标题"
       },
       "h7": {
         "value": "28",
-        "type": "fontSizes"
+        "type": "fontSizes",
+        "description": "常用于标题"
       },
       "h8": {
         "value": "30",
-        "type": "fontSizes"
+        "type": "fontSizes",
+        "description": "常用于标题"
       },
       "h9": {
         "value": "32",
-        "type": "fontSizes"
+        "type": "fontSizes",
+        "description": "常用于标题"
       }
     },
     "paragraph": {
