@@ -1944,7 +1944,18 @@
             "fontSize": "{body.b0}",
             "lineHeight": "{lineHight.l-default}"
           },
-          "type": "typography"
+          "type": "typography",
+          "description": "用于多行文本"
+        },
+        "regular-single": {
+          "value": {
+            "fontFamily": "{fontFamily.default}",
+            "fontWeight": "Regular",
+            "fontSize": "{body.b0}",
+            "lineHeight": "{lineHight.l-tight}"
+          },
+          "type": "typography",
+          "description": "用于单行文本"
         },
         "medium": {
           "value": {
@@ -1953,7 +1964,18 @@
             "fontSize": "{body.b0}",
             "lineHeight": "{lineHight.l-default}"
           },
-          "type": "typography"
+          "type": "typography",
+          "description": "用于多行文本"
+        },
+        "medium-single": {
+          "value": {
+            "fontFamily": "{fontFamily.default}",
+            "fontWeight": "Medium",
+            "fontSize": "{body.b0}",
+            "lineHeight": "{lineHight.l-tight}"
+          },
+          "type": "typography",
+          "description": "用于单行文本"
         },
         "bold": {
           "value": {
@@ -1962,7 +1984,18 @@
             "fontSize": "{body.b0}",
             "lineHeight": "{lineHight.l-default}"
           },
-          "type": "typography"
+          "type": "typography",
+          "description": "用于多行文本"
+        },
+        "bold-single": {
+          "value": {
+            "fontFamily": "{fontFamily.default}",
+            "fontWeight": "Semibold",
+            "fontSize": "{body.b0}",
+            "lineHeight": "{lineHight.l-tight}"
+          },
+          "type": "typography",
+          "description": "用于单行文本"
         }
       },
       "b1": {
@@ -1973,7 +2006,18 @@
             "fontSize": "{body.b1}",
             "lineHeight": "{lineHight.l-default}"
           },
-          "type": "typography"
+          "type": "typography",
+          "description": "用于多行文本"
+        },
+        "regular-single": {
+          "value": {
+            "fontFamily": "{fontFamily.default}",
+            "fontWeight": "Regular",
+            "fontSize": "{body.b1}",
+            "lineHeight": "{lineHight.l-tight}"
+          },
+          "type": "typography",
+          "description": "用于单行文本"
         }
       },
       "b2": {
@@ -1984,7 +2028,18 @@
             "fontSize": "{body.b2}",
             "lineHeight": "{lineHight.l-default}"
           },
-          "type": "typography"
+          "type": "typography",
+          "description": "用于多行文本"
+        },
+        "regular-single": {
+          "value": {
+            "fontFamily": "{fontFamily.default}",
+            "fontWeight": "Regular",
+            "fontSize": "{body.b2}",
+            "lineHeight": "{lineHight.l-default}"
+          },
+          "type": "typography",
+          "description": "用于单行文本"
         },
         "medium": {
           "value": {
@@ -1993,7 +2048,18 @@
             "fontSize": "{body.b2}",
             "lineHeight": "{lineHight.l-default}"
           },
-          "type": "typography"
+          "type": "typography",
+          "description": "用于多行文本"
+        },
+        "medium-single": {
+          "value": {
+            "fontFamily": "{fontFamily.default}",
+            "fontWeight": "Medium",
+            "fontSize": "{body.b2}",
+            "lineHeight": "{lineHight.l-tight}"
+          },
+          "type": "typography",
+          "description": "用于单行文本"
         },
         "bold": {
           "value": {
@@ -2002,7 +2068,18 @@
             "fontSize": "{body.b2}",
             "lineHeight": "{lineHight.l-default}"
           },
-          "type": "typography"
+          "type": "typography",
+          "description": "用于多行文本"
+        },
+        "bold-single": {
+          "value": {
+            "fontFamily": "{fontFamily.default}",
+            "fontWeight": "Semibold",
+            "fontSize": "{body.b2}",
+            "lineHeight": "{lineHight.l-tight}"
+          },
+          "type": "typography",
+          "description": "用于单行文本"
         }
       },
       "b4": {
@@ -2013,7 +2090,18 @@
             "fontSize": "{body.b4}",
             "lineHeight": "{lineHight.l-default}"
           },
-          "type": "typography"
+          "type": "typography",
+          "description": "用于多行文本"
+        },
+        "regular-single": {
+          "value": {
+            "fontFamily": "{fontFamily.default}",
+            "fontWeight": "Regular",
+            "fontSize": "{body.b4}",
+            "lineHeight": "{lineHight.l-tight}"
+          },
+          "type": "typography",
+          "description": "用于单行文本"
         },
         "medium": {
           "value": {
@@ -2022,7 +2110,18 @@
             "fontSize": "{body.b4}",
             "lineHeight": "{lineHight.l-default}"
           },
-          "type": "typography"
+          "type": "typography",
+          "description": "用于多行文本"
+        },
+        "medium-single": {
+          "value": {
+            "fontFamily": "{fontFamily.default}",
+            "fontWeight": "Medium",
+            "fontSize": "{body.b4}",
+            "lineHeight": "{lineHight.l-tight}"
+          },
+          "type": "typography",
+          "description": "用于单行文本"
         },
         "bold": {
           "value": {
@@ -2031,7 +2130,18 @@
             "fontSize": "{body.b4}",
             "lineHeight": "{lineHight.l-default}"
           },
-          "type": "typography"
+          "type": "typography",
+          "description": "用于多行文本"
+        },
+        "bold-single": {
+          "value": {
+            "fontFamily": "{fontFamily.default}",
+            "fontWeight": "Semibold",
+            "fontSize": "{body.b4}",
+            "lineHeight": "{lineHight.l-tight}"
+          },
+          "type": "typography",
+          "description": "用于单行文本"
         }
       },
       "n1": {
@@ -2042,7 +2152,8 @@
             "fontSize": "{body.b4}",
             "lineHeight": "{lineHight.l-tight}"
           },
-          "type": "typography"
+          "type": "typography",
+          "description": "用于特殊数字"
         }
       },
       "n2": {
@@ -2053,7 +2164,8 @@
             "fontSize": "{body.b6}",
             "lineHeight": "{lineHight.l-tight}"
           },
-          "type": "typography"
+          "type": "typography",
+          "description": "用于特殊数字"
         }
       },
       "n5": {
@@ -2064,7 +2176,8 @@
             "fontSize": "{heading.h7}",
             "lineHeight": "{lineHight.l-tight}"
           },
-          "type": "typography"
+          "type": "typography",
+          "description": "用于特殊数字"
         }
       },
       "n6": {
@@ -2075,7 +2188,8 @@
             "fontSize": "{heading.h9}",
             "lineHeight": "{lineHight.l-tight}"
           },
-          "type": "typography"
+          "type": "typography",
+          "description": "用于特殊数字"
         }
       },
       "b4p": {
@@ -2087,7 +2201,8 @@
             "lineHeight": "{lineHight.l-paragraph}",
             "paragraphSpacing": "{paragraph.p1}"
           },
-          "type": "typography"
+          "type": "typography",
+          "description": "用于大间距段落"
         },
         "bold": {
           "value": {
@@ -2097,7 +2212,8 @@
             "lineHeight": "{lineHight.l-paragraph}",
             "paragraphSpacing": "{paragraph.p1}"
           },
-          "type": "typography"
+          "type": "typography",
+          "description": "用于大间距段落"
         }
       },
       "b6p": {
@@ -2109,7 +2225,8 @@
             "lineHeight": "{lineHight.l-paragraph}",
             "paragraphSpacing": "{paragraph.p2}"
           },
-          "type": "typography"
+          "type": "typography",
+          "description": "用于大间距段落"
         },
         "bold": {
           "value": {
@@ -2119,7 +2236,8 @@
             "lineHeight": "{lineHight.l-paragraph}",
             "paragraphSpacing": "{paragraph.p2}"
           },
-          "type": "typography"
+          "type": "typography",
+          "description": "用于大间距段落"
         }
       },
       "b6": {
@@ -2130,7 +2248,18 @@
             "fontSize": "{body.b6}",
             "lineHeight": "{lineHight.l-default}"
           },
-          "type": "typography"
+          "type": "typography",
+          "description": "用于多行文本"
+        },
+        "rugular-single": {
+          "value": {
+            "fontFamily": "{fontFamily.default}",
+            "fontWeight": "Regular",
+            "fontSize": "{body.b6}",
+            "lineHeight": "{lineHight.l-tight}"
+          },
+          "type": "typography",
+          "description": "用于单行文本"
         },
         "medium": {
           "value": {
@@ -2139,7 +2268,18 @@
             "fontSize": "{body.b6}",
             "lineHeight": "{lineHight.l-default}"
           },
-          "type": "typography"
+          "type": "typography",
+          "description": "用于多行文本"
+        },
+        "medium-single": {
+          "value": {
+            "fontFamily": "{fontFamily.default}",
+            "fontWeight": "Medium",
+            "fontSize": "{body.b6}",
+            "lineHeight": "{lineHight.l-tight}"
+          },
+          "type": "typography",
+          "description": "用于单行文本"
         },
         "bold": {
           "value": {
@@ -2148,7 +2288,18 @@
             "fontSize": "{body.b6}",
             "lineHeight": "{lineHight.l-default}"
           },
-          "type": "typography"
+          "type": "typography",
+          "description": "用于多行文本"
+        },
+        "bold-single": {
+          "value": {
+            "fontFamily": "{fontFamily.default}",
+            "fontWeight": "Semibold",
+            "fontSize": "{body.b6}",
+            "lineHeight": "{lineHight.l-tight}"
+          },
+          "type": "typography",
+          "description": "用于单行文本"
         }
       },
       "h0": {
@@ -2159,7 +2310,18 @@
             "fontSize": "{heading.h0}",
             "lineHeight": "{lineHight.l-default}"
           },
-          "type": "typography"
+          "type": "typography",
+          "description": "用于多行文本"
+        },
+        "bold-single": {
+          "value": {
+            "fontFamily": "{fontFamily.default}",
+            "fontWeight": "Semibold",
+            "fontSize": "{heading.h0}",
+            "lineHeight": "{lineHight.l-tight}"
+          },
+          "type": "typography",
+          "description": "用于单行文本"
         }
       },
       "h1": {
@@ -2170,7 +2332,18 @@
             "fontSize": "{heading.h1}",
             "lineHeight": "{lineHight.l-default}"
           },
-          "type": "typography"
+          "type": "typography",
+          "description": "用于多行文本"
+        },
+        "regular-single": {
+          "value": {
+            "fontFamily": "{fontFamily.default}",
+            "fontWeight": "Regular",
+            "fontSize": "{heading.h1}",
+            "lineHeight": "{lineHight.l-tight}"
+          },
+          "type": "typography",
+          "description": "用于单行文本"
         },
         "medium": {
           "value": {
@@ -2179,7 +2352,18 @@
             "fontSize": "{heading.h1}",
             "lineHeight": "{lineHight.l-default}"
           },
-          "type": "typography"
+          "type": "typography",
+          "description": "用于多行文本"
+        },
+        "medium-single": {
+          "value": {
+            "fontFamily": "{fontFamily.default}",
+            "fontWeight": "Medium",
+            "fontSize": "{heading.h1}",
+            "lineHeight": "{lineHight.l-tight}"
+          },
+          "type": "typography",
+          "description": "用于单行文本"
         },
         "bold": {
           "value": {
@@ -2188,7 +2372,18 @@
             "fontSize": "{heading.h1}",
             "lineHeight": "{lineHight.l-default}"
           },
-          "type": "typography"
+          "type": "typography",
+          "description": "用于多行文本"
+        },
+        "bold-single": {
+          "value": {
+            "fontFamily": "{fontFamily.default}",
+            "fontWeight": "Semibold",
+            "fontSize": "{heading.h1}",
+            "lineHeight": "{lineHight.l-tight}"
+          },
+          "type": "typography",
+          "description": "用于单行文本"
         }
       },
       "h2": {
@@ -2199,7 +2394,18 @@
             "fontSize": "{heading.h2}",
             "lineHeight": "{lineHight.l-default}"
           },
-          "type": "typography"
+          "type": "typography",
+          "description": "用于多行文本"
+        },
+        "rugular-single": {
+          "value": {
+            "fontFamily": "{fontFamily.default}",
+            "fontWeight": "Regular",
+            "fontSize": "{heading.h2}",
+            "lineHeight": "{lineHight.l-tight}"
+          },
+          "type": "typography",
+          "description": "用于单行文本"
         },
         "medium": {
           "value": {
@@ -2208,7 +2414,18 @@
             "fontSize": "{heading.h2}",
             "lineHeight": "{lineHight.l-default}"
           },
-          "type": "typography"
+          "type": "typography",
+          "description": "用于多行文本"
+        },
+        "medium-single": {
+          "value": {
+            "fontFamily": "{fontFamily.default}",
+            "fontWeight": "Medium",
+            "fontSize": "{heading.h2}",
+            "lineHeight": "{lineHight.l-tight}"
+          },
+          "type": "typography",
+          "description": "用于单行文本"
         },
         "bold": {
           "value": {
@@ -2217,7 +2434,18 @@
             "fontSize": "{heading.h2}",
             "lineHeight": "{lineHight.l-default}"
           },
-          "type": "typography"
+          "type": "typography",
+          "description": "用于多行文本"
+        },
+        "bold-single": {
+          "value": {
+            "fontFamily": "{fontFamily.default}",
+            "fontWeight": "Semibold",
+            "fontSize": "{heading.h2}",
+            "lineHeight": "{lineHight.l-tight}"
+          },
+          "type": "typography",
+          "description": "用于单行文本"
         }
       },
       "h3": {
@@ -2228,7 +2456,18 @@
             "fontSize": "{heading.h3}",
             "lineHeight": "{lineHight.l-default}"
           },
-          "type": "typography"
+          "type": "typography",
+          "description": "用于多行文本"
+        },
+        "rugular-single": {
+          "value": {
+            "fontFamily": "{fontFamily.default}",
+            "fontWeight": "Regular",
+            "fontSize": "{heading.h3}",
+            "lineHeight": "{lineHight.l-tight}"
+          },
+          "type": "typography",
+          "description": "用于单行文本"
         },
         "medium": {
           "value": {
@@ -2237,7 +2476,18 @@
             "fontSize": "{heading.h3}",
             "lineHeight": "{lineHight.l-default}"
           },
-          "type": "typography"
+          "type": "typography",
+          "description": "用于多行文本"
+        },
+        "medium-single": {
+          "value": {
+            "fontFamily": "{fontFamily.default}",
+            "fontWeight": "Medium",
+            "fontSize": "{heading.h3}",
+            "lineHeight": "{lineHight.l-tight}"
+          },
+          "type": "typography",
+          "description": "用于单行文本"
         },
         "bold": {
           "value": {
@@ -2246,7 +2496,18 @@
             "fontSize": "{heading.h3}",
             "lineHeight": "{lineHight.l-default}"
           },
-          "type": "typography"
+          "type": "typography",
+          "description": "用于多行文本"
+        },
+        "bold-single": {
+          "value": {
+            "fontFamily": "{fontFamily.default}",
+            "fontWeight": "Semibold",
+            "fontSize": "{heading.h3}",
+            "lineHeight": "{lineHight.l-tight}"
+          },
+          "type": "typography",
+          "description": "用于单行文本"
         }
       },
       "h4": {
@@ -2257,7 +2518,18 @@
             "fontSize": "{heading.h4}",
             "lineHeight": "{lineHight.l-default}"
           },
-          "type": "typography"
+          "type": "typography",
+          "description": "用于多行文本"
+        },
+        "regular-single": {
+          "value": {
+            "fontFamily": "{fontFamily.default}",
+            "fontWeight": "Regular",
+            "fontSize": "{heading.h4}",
+            "lineHeight": "{lineHight.l-tight}"
+          },
+          "type": "typography",
+          "description": "用于单行文本"
         },
         "medium": {
           "value": {
@@ -2266,7 +2538,18 @@
             "fontSize": "{heading.h4}",
             "lineHeight": "{lineHight.l-default}"
           },
-          "type": "typography"
+          "type": "typography",
+          "description": "用于多行文本"
+        },
+        "medium-single": {
+          "value": {
+            "fontFamily": "{fontFamily.default}",
+            "fontWeight": "Medium",
+            "fontSize": "{heading.h4}",
+            "lineHeight": "{lineHight.l-tight}"
+          },
+          "type": "typography",
+          "description": "用于单行文本"
         },
         "bold": {
           "value": {
@@ -2275,7 +2558,18 @@
             "fontSize": "{heading.h4}",
             "lineHeight": "{lineHight.l-default}"
           },
-          "type": "typography"
+          "type": "typography",
+          "description": "用于多行文本"
+        },
+        "bold-single": {
+          "value": {
+            "fontFamily": "{fontFamily.default}",
+            "fontWeight": "Semibold",
+            "fontSize": "{heading.h4}",
+            "lineHeight": "{lineHight.l-tight}"
+          },
+          "type": "typography",
+          "description": "用于单行文本"
         }
       },
       "h5": {
@@ -2286,7 +2580,18 @@
             "fontSize": "{heading.h5}",
             "lineHeight": "{lineHight.l-default}"
           },
-          "type": "typography"
+          "type": "typography",
+          "description": "用于多行文本"
+        },
+        "rugular-single": {
+          "value": {
+            "fontFamily": "{fontFamily.default}",
+            "fontWeight": "Regular",
+            "fontSize": "{heading.h5}",
+            "lineHeight": "{lineHight.l-tight}"
+          },
+          "type": "typography",
+          "description": "用于单行文本"
         },
         "medium": {
           "value": {
@@ -2295,7 +2600,18 @@
             "fontSize": "{heading.h5}",
             "lineHeight": "{lineHight.l-default}"
           },
-          "type": "typography"
+          "type": "typography",
+          "description": "用于多行文本"
+        },
+        "medium-single": {
+          "value": {
+            "fontFamily": "{fontFamily.default}",
+            "fontWeight": "Medium",
+            "fontSize": "{heading.h5}",
+            "lineHeight": "{lineHight.l-tight}"
+          },
+          "type": "typography",
+          "description": "用于单行文本"
         },
         "bold": {
           "value": {
@@ -2304,7 +2620,18 @@
             "fontSize": "{heading.h5}",
             "lineHeight": "{lineHight.l-default}"
           },
-          "type": "typography"
+          "type": "typography",
+          "description": "用于多行文本"
+        },
+        "bold-single": {
+          "value": {
+            "fontFamily": "{fontFamily.default}",
+            "fontWeight": "Semibold",
+            "fontSize": "{heading.h5}",
+            "lineHeight": "{lineHight.l-tight}"
+          },
+          "type": "typography",
+          "description": "用于单行文本"
         }
       }
     }
