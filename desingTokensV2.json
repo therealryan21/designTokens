@@ -126,6 +126,10 @@
           "value": "#ff9a00",
           "type": "color"
         },
+        "550": {
+          "value": "#F97316",
+          "type": "color"
+        },
         "600": {
           "value": "#e68b00",
           "type": "color"
@@ -1494,8 +1498,16 @@
             "value": "{colors.teal.650}",
             "type": "color"
           },
+          "l-orange": {
+            "value": "{colors.orange.500}",
+            "type": "color"
+          },
           "r": {
             "value": "{colors.cyan.450}",
+            "type": "color"
+          },
+          "r-orange": {
+            "value": "{colors.orange.550}",
             "type": "color"
           }
         }
