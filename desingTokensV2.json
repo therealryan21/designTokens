@@ -2185,7 +2185,7 @@
         }
       },
       "n4": {
-        "ExtraBold": {
+        "extraBold": {
           "value": {
             "fontFamily": "{fontFamily.numberExtraBold}",
             "fontWeight": "ExtraBold",
