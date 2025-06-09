@@ -1119,7 +1119,8 @@
       },
       "numberBlack": {
         "value": "NumberBlack",
-        "type": "fontFamilies"
+        "type": "fontFamilies",
+        "description": "此value值设计这边识别不到，但Android可以"
       },
       "number": {
         "value": "Akrobat",
@@ -1128,7 +1129,8 @@
       },
       "numberBold": {
         "value": "NumberBold",
-        "type": "fontFamilies"
+        "type": "fontFamilies",
+        "description": "此value值设计这边识别不到，但Android可以"
       }
     },
     "lineHight": {
