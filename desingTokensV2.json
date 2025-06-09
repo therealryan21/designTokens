@@ -389,6 +389,10 @@
           "value": "#60a5fa",
           "type": "color"
         },
+        "450": {
+          "value": "#4D5EFF",
+          "type": "color"
+        },
         "500": {
           "value": "#3b82f6",
           "type": "color"
@@ -1369,6 +1373,12 @@
             "value": "{colors.orange.500}",
             "type": "color"
           }
+        },
+        "identity": {
+          "primary": {
+            "value": "{colors.blue.450}",
+            "type": "color"
+          }
         }
       },
       "bg": {
@@ -1705,6 +1715,12 @@
         "vip": {
           "svip-primary": {
             "value": "{colors.orange.500}",
+            "type": "color"
+          }
+        },
+        "identity": {
+          "primary": {
+            "value": "{colors.blue.450}",
             "type": "color"
           }
         }
