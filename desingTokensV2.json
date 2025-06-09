@@ -1118,15 +1118,16 @@
         "type": "fontFamilies"
       },
       "numberBlack": {
-        "value": "Akrobat",
+        "value": "NumberBlack",
         "type": "fontFamilies"
       },
       "number": {
         "value": "Akrobat",
-        "type": "fontFamilies"
+        "type": "fontFamilies",
+        "description": "Android端无此字体"
       },
       "numberBold": {
-        "value": "Akrobat",
+        "value": "NumberBold",
         "type": "fontFamilies"
       }
     },
@@ -1698,6 +1699,12 @@
             "value": "{colors.red.300}",
             "type": "color"
           }
+        },
+        "vip": {
+          "svip-primary": {
+            "value": "{colors.orange.500}",
+            "type": "color"
+          }
         }
       },
       "bg": {
@@ -1706,12 +1713,16 @@
             "value": "{colors.slate.10}",
             "type": "color"
           },
+          "secondary": {
+            "value": "{colors.slate.50}",
+            "type": "color"
+          },
           "default": {
             "value": "{colors.white.1000}",
             "type": "color"
           },
-          "secondary": {
-            "value": "{colors.slate.50}",
+          "mask": {
+            "value": "{colors.black.1000}",
             "type": "color"
           }
         },
@@ -1771,32 +1782,32 @@
             }
           },
           "success": {
-            "secondary": {
-              "value": "{colors.teal.50}",
-              "type": "color"
-            },
             "default": {
               "value": "{colors.teal.600}",
+              "type": "color"
+            },
+            "secondary": {
+              "value": "{colors.teal.50}",
               "type": "color"
             }
           },
           "inProgress": {
-            "secondary": {
-              "value": "{colors.teal.50}",
-              "type": "color"
-            },
             "default": {
               "value": "{colors.teal.600}",
+              "type": "color"
+            },
+            "secondary": {
+              "value": "{colors.teal.50}",
               "type": "color"
             }
           },
           "closingSoon": {
-            "secondary": {
-              "value": "{colors.red.50}",
-              "type": "color"
-            },
             "default": {
               "value": "{colors.red.300}",
+              "type": "color"
+            },
+            "secondary": {
+              "value": "{colors.red.50}",
               "type": "color"
             }
           },
@@ -1804,16 +1815,38 @@
             "default": {
               "value": "{colors.slate.100}",
               "type": "color"
+            },
+            "tertiary": {
+              "value": "{colors.slate.250}",
+              "type": "color"
+            },
+            "secondary": {
+              "value": "{colors.slate.75}",
+              "type": "color"
+            }
+          },
+          "unshelve": {
+            "primary": {
+              "value": "{colors.slate.350}",
+              "type": "color"
             }
           }
         },
         "gradient": {
           "l": {
-            "value": "{colors.green.900}",
+            "value": "{colors.teal.650}",
+            "type": "color"
+          },
+          "l-orange": {
+            "value": "{colors.orange.500}",
             "type": "color"
           },
           "r": {
-            "value": "{colors.cyan.900}",
+            "value": "{colors.cyan.450}",
+            "type": "color"
+          },
+          "r-orange": {
+            "value": "{colors.orange.550}",
             "type": "color"
           }
         }
@@ -1836,16 +1869,20 @@
           }
         },
         "status": {
-          "ended": {
-            "value": "{colors.slate.250}",
-            "type": "color"
-          },
-          "inProgress": {
+          "accent": {
             "value": "{colors.teal.600}",
             "type": "color"
           },
           "notStarted": {
             "value": "{colors.blue.400}",
+            "type": "color"
+          },
+          "success": {
+            "value": "{colors.teal.600}",
+            "type": "color"
+          },
+          "inProgress": {
+            "value": "{colors.teal.600}",
             "type": "color"
           },
           "error": {
@@ -1860,12 +1897,12 @@
             "value": "{colors.orange.500}",
             "type": "color"
           },
-          "success": {
-            "value": "{colors.teal.600}",
+          "ended": {
+            "value": "{colors.slate.250}",
             "type": "color"
           },
-          "accent": {
-            "value": "{colors.teal.600}",
+          "unshelve": {
+            "value": "{colors.slate.250}",
             "type": "color"
           }
         }
@@ -1924,22 +1961,6 @@
           },
           "ended": {
             "value": "{colors.slate.250}",
-            "type": "color"
-          }
-        }
-      },
-      "btn": {
-        "basic": {
-          "primary-l": {
-            "value": "{colors.green.900}",
-            "type": "color"
-          },
-          "primary-r": {
-            "value": "{colors.cyan.900}",
-            "type": "color"
-          },
-          "secondary": {
-            "value": "{colors.teal.50}",
             "type": "color"
           }
         }
