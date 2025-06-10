@@ -1336,7 +1336,7 @@
             "type": "color"
           },
           "success": {
-            "value": "{colors.teal.600}",
+            "value": "{colors.teal.700}",
             "type": "color"
           },
           "notStarted": {
@@ -1344,7 +1344,7 @@
             "type": "color"
           },
           "inProgress": {
-            "value": "{colors.teal.600}",
+            "value": "{colors.teal.700}",
             "type": "color"
           },
           "closingSoon": {
@@ -1360,7 +1360,7 @@
             "type": "color"
           },
           "accent": {
-            "value": "{colors.teal.600}",
+            "value": "{colors.teal.700}",
             "type": "color"
           },
           "todo": {
@@ -1402,7 +1402,7 @@
         },
         "interaction": {
           "selected": {
-            "value": "{colors.teal.600}",
+            "value": "{colors.teal.700}",
             "type": "color"
           },
           "disabled": {
@@ -1413,7 +1413,7 @@
         "status": {
           "accent": {
             "default": {
-              "value": "{colors.teal.600}",
+              "value": "{colors.teal.700}",
               "type": "color"
             },
             "secondary": {
@@ -1421,7 +1421,7 @@
               "type": "color"
             },
             "selected": {
-              "value": "{colors.teal.600}",
+              "value": "{colors.teal.700}",
               "type": "color"
             }
           },
@@ -1457,7 +1457,7 @@
           },
           "success": {
             "default": {
-              "value": "{colors.teal.600}",
+              "value": "{colors.teal.700}",
               "type": "color"
             },
             "secondary": {
@@ -1467,7 +1467,7 @@
           },
           "inProgress": {
             "default": {
-              "value": "{colors.teal.600}",
+              "value": "{colors.teal.700}",
               "type": "color"
             },
             "secondary": {
@@ -1538,13 +1538,13 @@
         },
         "interaction": {
           "selected": {
-            "value": "{colors.teal.600}",
+            "value": "{colors.teal.700}",
             "type": "color"
           }
         },
         "status": {
           "accent": {
-            "value": "{colors.teal.600}",
+            "value": "{colors.teal.700}",
             "type": "color"
           },
           "notStarted": {
@@ -1552,11 +1552,11 @@
             "type": "color"
           },
           "success": {
-            "value": "{colors.teal.600}",
+            "value": "{colors.teal.700}",
             "type": "color"
           },
           "inProgress": {
-            "value": "{colors.teal.600}",
+            "value": "{colors.teal.700}",
             "type": "color"
           },
           "error": {
@@ -1606,11 +1606,11 @@
         },
         "status": {
           "accent": {
-            "value": "{colors.teal.600}",
+            "value": "{colors.teal.700}",
             "type": "color"
           },
           "success": {
-            "value": "{colors.teal.600}",
+            "value": "{colors.teal.700}",
             "type": "color"
           },
           "warning": {
@@ -1626,7 +1626,7 @@
             "type": "color"
           },
           "inProgress": {
-            "value": "{colors.teal.600}",
+            "value": "{colors.teal.700}",
             "type": "color"
           },
           "closingSoon": {
