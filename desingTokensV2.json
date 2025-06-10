@@ -423,6 +423,10 @@
           "value": "#f3fcfb",
           "type": "color"
         },
+        "75": {
+          "value": "#EFFAF7",
+          "type": "color"
+        },
         "100": {
           "value": "#e2fdf9",
           "type": "color"
@@ -1420,6 +1424,11 @@
               "value": "{colors.teal.50}",
               "type": "color"
             },
+            "subtle": {
+              "value": "{colors.teal.75}",
+              "type": "color",
+              "description": "用于浅色按钮、标签等"
+            },
             "selected": {
               "value": "{colors.teal.700}",
               "type": "color"
@@ -1759,6 +1768,11 @@
             "default": {
               "value": "{colors.teal.600}",
               "type": "color"
+            },
+            "subtle": {
+              "value": "{colors.teal.75}",
+              "type": "color",
+              "description": "用于浅色按钮、标签等"
             },
             "secondary": {
               "value": "{colors.teal.50}",
