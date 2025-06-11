@@ -2199,6 +2199,28 @@
           "description": "用于单行文本"
         }
       },
+      "n0": {
+        "bold": {
+          "value": {
+            "fontFamily": "{fontFamily.number}",
+            "fontWeight": "Bold",
+            "fontSize": "{body.b2}",
+            "lineHeight": "{lineHight.l-tight}"
+          },
+          "type": "typography",
+          "description": "用于多行文本"
+        },
+        "black": {
+          "value": {
+            "fontFamily": "{fontFamily.number}",
+            "fontWeight": "Black",
+            "fontSize": "{body.b2}",
+            "lineHeight": "{lineHight.l-tight}"
+          },
+          "type": "typography",
+          "description": "用于多行文本"
+        }
+      },
       "n1": {
         "bold": {
           "value": {
@@ -2209,9 +2231,29 @@
           },
           "type": "typography",
           "description": "用于特殊数字"
+        },
+        "black": {
+          "value": {
+            "fontFamily": "{fontFamily.number}",
+            "fontWeight": "Black",
+            "fontSize": "{body.b4}",
+            "lineHeight": "{lineHight.l-tight}"
+          },
+          "type": "typography",
+          "description": "用于特殊数字"
         }
       },
       "n2": {
+        "bold": {
+          "value": {
+            "fontFamily": "{fontFamily.number}",
+            "fontWeight": "Bold",
+            "fontSize": "{body.b6}",
+            "lineHeight": "{lineHight.l-tight}"
+          },
+          "type": "typography",
+          "description": "用于特殊数字"
+        },
         "black": {
           "value": {
             "fontFamily": "{fontFamily.number}",
@@ -2224,6 +2266,16 @@
         }
       },
       "n4": {
+        "bold": {
+          "value": {
+            "fontFamily": "{fontFamily.number}",
+            "fontWeight": "Bold",
+            "fontSize": "{heading.h6}",
+            "lineHeight": "{lineHight.l-tight}"
+          },
+          "type": "typography",
+          "description": "用于特殊数字"
+        },
         "black": {
           "value": {
             "fontFamily": "{fontFamily.number}",
@@ -2245,9 +2297,29 @@
           },
           "type": "typography",
           "description": "用于特殊数字"
+        },
+        "black": {
+          "value": {
+            "fontFamily": "{fontFamily.number}",
+            "fontWeight": "Black",
+            "fontSize": "{heading.h7}",
+            "lineHeight": "{lineHight.l-tight}"
+          },
+          "type": "typography",
+          "description": "用于特殊数字"
         }
       },
       "n6": {
+        "bold": {
+          "value": {
+            "fontFamily": "{fontFamily.number}",
+            "fontWeight": "Bold",
+            "fontSize": "{heading.h9}",
+            "lineHeight": "{lineHight.l-tight}"
+          },
+          "type": "typography",
+          "description": "用于特殊数字"
+        },
         "black": {
           "value": {
             "fontFamily": "{fontFamily.number}",
