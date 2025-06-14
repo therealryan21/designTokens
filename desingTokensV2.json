@@ -110,6 +110,10 @@
           "value": "#ffe1b3",
           "type": "color"
         },
+        "110": {
+          "value": "#FEDEB1",
+          "type": "color"
+        },
         "200": {
           "value": "#ffcd80",
           "type": "color"
@@ -137,6 +141,11 @@
         "700": {
           "value": "#b36c00",
           "type": "color"
+        },
+        "750": {
+          "value": "#8F5932",
+          "type": "color",
+          "description": "VIP用色"
         },
         "800": {
           "value": "#804d00",
@@ -230,6 +239,11 @@
           "value": "#ffe9e5",
           "type": "color"
         },
+        "51": {
+          "value": "#FFE7E4",
+          "type": "color",
+          "description": "SVIP用色"
+        },
         "100": {
           "value": "#ffbeb3",
           "type": "color"
@@ -261,6 +275,11 @@
         "800": {
           "value": "#801300",
           "type": "color"
+        },
+        "810": {
+          "value": "#802E17",
+          "type": "color",
+          "description": "SVIP用色"
         },
         "900": {
           "value": "#4d0b00",
@@ -1357,14 +1376,30 @@
             "value": "{colors.teal.700}",
             "type": "color"
           },
+          "accentDarker": {
+            "value": "{colors.teal.800}",
+            "type": "color"
+          },
           "todo": {
             "value": "{colors.red.300}",
             "type": "color"
           }
         },
         "vip": {
+          "vip-primary": {
+            "value": "{colors.orange.750}",
+            "type": "color"
+          },
+          "vip-subtle": {
+            "value": "{colors.orange.100}",
+            "type": "color"
+          },
           "svip-primary": {
-            "value": "{colors.orange.500}",
+            "value": "{colors.red.810}",
+            "type": "color"
+          },
+          "svip-subtle": {
+            "value": "{colors.red.100}",
             "type": "color"
           }
         },
@@ -1546,6 +1581,10 @@
             "value": "{colors.teal.700}",
             "type": "color"
           },
+          "accentDarker": {
+            "value": "{colors.teal.800}",
+            "type": "color"
+          },
           "notStarted": {
             "value": "{colors.blue.400}",
             "type": "color"
@@ -1606,6 +1645,10 @@
         "status": {
           "accent": {
             "value": "{colors.teal.700}",
+            "type": "color"
+          },
+          "accentDarker": {
+            "value": "{colors.teal.800}",
             "type": "color"
           },
           "success": {
@@ -1706,14 +1749,30 @@
             "value": "{colors.teal.700}",
             "type": "color"
           },
+          "accentDarker": {
+            "value": "{colors.teal.800}",
+            "type": "color"
+          },
           "todo": {
             "value": "{colors.red.300}",
             "type": "color"
           }
         },
         "vip": {
+          "vip-primary": {
+            "value": "{colors.orange.750}",
+            "type": "color"
+          },
+          "vip-subtle": {
+            "value": "{colors.orange.100}",
+            "type": "color"
+          },
           "svip-primary": {
-            "value": "{colors.orange.500}",
+            "value": "{colors.red.810}",
+            "type": "color"
+          },
+          "svip-subtle": {
+            "value": "{colors.red.100}",
             "type": "color"
           }
         },
@@ -1895,6 +1954,10 @@
             "value": "{colors.teal.700}",
             "type": "color"
           },
+          "accentDarker": {
+            "value": "{colors.teal.800}",
+            "type": "color"
+          },
           "notStarted": {
             "value": "{colors.blue.400}",
             "type": "color"
@@ -1955,6 +2018,10 @@
         "status": {
           "accent": {
             "value": "{colors.teal.700}",
+            "type": "color"
+          },
+          "accentDarker": {
+            "value": "{colors.teal.800}",
             "type": "color"
           },
           "success": {
