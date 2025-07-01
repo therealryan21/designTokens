@@ -1376,6 +1376,10 @@
             "value": "{colors.blue.400}",
             "type": "color"
           },
+          "notStartedDarker": {
+            "value": "{colors.blue.500}",
+            "type": "color"
+          },
           "inProgress": {
             "value": "{colors.teal.700}",
             "type": "color"
