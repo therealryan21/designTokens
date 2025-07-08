@@ -2334,6 +2334,18 @@
           "description": "用于单行文本"
         }
       },
+      "n00": {
+        "black": {
+          "value": {
+            "fontFamily": "{fontFamily.number}",
+            "fontWeight": "Black",
+            "fontSize": "{body.b0}",
+            "lineHeight": "{lineHight.l-tight}"
+          },
+          "type": "typography",
+          "description": "用于多行文本"
+        }
+      },
       "n0": {
         "bold": {
           "value": {
@@ -2394,6 +2406,28 @@
             "fontFamily": "{fontFamily.number}",
             "fontWeight": "Black",
             "fontSize": "{body.b6}",
+            "lineHeight": "{lineHight.l-tight}"
+          },
+          "type": "typography",
+          "description": "用于特殊数字"
+        }
+      },
+      "n3": {
+        "bold": {
+          "value": {
+            "fontFamily": "{fontFamily.number}",
+            "fontWeight": "Bold",
+            "fontSize": "{heading.h3}",
+            "lineHeight": "{lineHight.l-tight}"
+          },
+          "type": "typography",
+          "description": "用于特殊数字"
+        },
+        "black": {
+          "value": {
+            "fontFamily": "{fontFamily.number}",
+            "fontWeight": "Black",
+            "fontSize": "{heading.h3}",
             "lineHeight": "{lineHight.l-tight}"
           },
           "type": "typography",
