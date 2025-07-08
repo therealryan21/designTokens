@@ -1650,10 +1650,14 @@
             "type": "color"
           },
           "secondary": {
+            "value": "{colors.slate.750}",
+            "type": "color"
+          },
+          "quaternary": {
             "value": "{colors.slate.350}",
             "type": "color"
           },
-          "tertialry": {
+          "quinary": {
             "value": "{colors.slate.250}",
             "type": "color"
           },
@@ -2161,6 +2165,46 @@
             "fontWeight": "Regular",
             "fontSize": "{body.b1}",
             "lineHeight": "{lineHight.l-tight}"
+          },
+          "type": "typography",
+          "description": "用于单行文本"
+        },
+        "medium": {
+          "value": {
+            "fontFamily": "{fontFamily.default}",
+            "fontWeight": "Medium",
+            "fontSize": "{body.b1}",
+            "lineHeight": "{lineHight.l-default}"
+          },
+          "type": "typography",
+          "description": "用于多行文本"
+        },
+        "medium-single": {
+          "value": {
+            "fontFamily": "{fontFamily.default}",
+            "fontWeight": "Medium",
+            "fontSize": "{body.b1}",
+            "lineHeight": "{lineHight.l-tight}"
+          },
+          "type": "typography",
+          "description": "用于单行文本"
+        },
+        "bold-single": {
+          "value": {
+            "fontFamily": "{fontFamily.default}",
+            "fontWeight": "Semibold",
+            "fontSize": "{body.b1}",
+            "lineHeight": "{lineHight.l-default}"
+          },
+          "type": "typography",
+          "description": "用于单行文本"
+        },
+        "bold": {
+          "value": {
+            "fontFamily": "{fontFamily.default}",
+            "fontWeight": "Semibold",
+            "fontSize": "{body.b1}",
+            "lineHeight": "{lineHight.l-default}"
           },
           "type": "typography",
           "description": "用于单行文本"
