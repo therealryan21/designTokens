@@ -252,6 +252,11 @@
           "value": "#ff9380",
           "type": "color"
         },
+        "250": {
+          "value": "#BC5048",
+          "type": "color",
+          "description": "SVIP用色"
+        },
         "300": {
           "value": "#ff6044",
           "type": "color"
@@ -1425,6 +1430,10 @@
           "svip-subtle": {
             "value": "{colors.red.100}",
             "type": "color"
+          },
+          "non-vip": {
+            "value": "{colors.red.250}",
+            "type": "color"
           }
         },
         "identity": {
@@ -1469,10 +1478,6 @@
               "value": "{colors.teal.700}",
               "type": "color"
             },
-            "selected": {
-              "value": "{colors.teal.700}",
-              "type": "color"
-            },
             "secondary": {
               "value": "{colors.teal.50}",
               "type": "color"
@@ -1481,6 +1486,10 @@
               "value": "{colors.teal.75}",
               "type": "color",
               "description": "用于浅色按钮、标签等"
+            },
+            "selected": {
+              "value": "{colors.teal.700}",
+              "type": "color"
             }
           },
           "error": {
@@ -1581,12 +1590,12 @@
             "value": "{colors.orange.550}",
             "type": "color"
           },
-          "l-blue": {
-            "value": "{colors.blue.400}",
-            "type": "color"
-          },
           "r-blue": {
             "value": "{colors.blue.500}",
+            "type": "color"
+          },
+          "l-blue": {
+            "value": "{colors.blue.400}",
             "type": "color"
           }
         }
