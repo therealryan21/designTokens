@@ -1469,6 +1469,10 @@
               "value": "{colors.teal.700}",
               "type": "color"
             },
+            "selected": {
+              "value": "{colors.teal.700}",
+              "type": "color"
+            },
             "secondary": {
               "value": "{colors.teal.50}",
               "type": "color"
@@ -1477,10 +1481,6 @@
               "value": "{colors.teal.75}",
               "type": "color",
               "description": "用于浅色按钮、标签等"
-            },
-            "selected": {
-              "value": "{colors.teal.700}",
-              "type": "color"
             }
           },
           "error": {
@@ -1569,16 +1569,24 @@
             "value": "{colors.teal.650}",
             "type": "color"
           },
-          "l-orange": {
-            "value": "{colors.orange.500}",
-            "type": "color"
-          },
           "r": {
             "value": "{colors.cyan.450}",
             "type": "color"
           },
+          "l-orange": {
+            "value": "{colors.orange.500}",
+            "type": "color"
+          },
           "r-orange": {
             "value": "{colors.orange.550}",
+            "type": "color"
+          },
+          "l-blue": {
+            "value": "{colors.blue.400}",
+            "type": "color"
+          },
+          "r-blue": {
+            "value": "{colors.blue.500}",
             "type": "color"
           }
         }
