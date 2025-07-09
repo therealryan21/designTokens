@@ -1377,28 +1377,8 @@
             "value": "{colors.teal.700}",
             "type": "color"
           },
-          "notStarted": {
-            "value": "{colors.blue.400}",
-            "type": "color"
-          },
-          "notStartedDarker": {
-            "value": "{colors.blue.500}",
-            "type": "color"
-          },
           "inProgress": {
             "value": "{colors.teal.700}",
-            "type": "color"
-          },
-          "closingSoon": {
-            "value": "{colors.red.300}",
-            "type": "color"
-          },
-          "ended": {
-            "value": "{colors.slate.250}",
-            "type": "color"
-          },
-          "error": {
-            "value": "{colors.red.300}",
             "type": "color"
           },
           "accent": {
@@ -1409,8 +1389,28 @@
             "value": "{colors.teal.800}",
             "type": "color"
           },
+          "notStarted": {
+            "value": "{colors.blue.400}",
+            "type": "color"
+          },
+          "notStartedDarker": {
+            "value": "{colors.blue.500}",
+            "type": "color"
+          },
+          "closingSoon": {
+            "value": "{colors.red.300}",
+            "type": "color"
+          },
+          "error": {
+            "value": "{colors.red.300}",
+            "type": "color"
+          },
           "todo": {
             "value": "{colors.red.300}",
+            "type": "color"
+          },
+          "ended": {
+            "value": "{colors.slate.250}",
             "type": "color"
           }
         },
@@ -1482,6 +1482,10 @@
               "value": "{colors.teal.700}",
               "type": "color"
             },
+            "selected": {
+              "value": "{colors.teal.700}",
+              "type": "color"
+            },
             "secondary": {
               "value": "{colors.teal.50}",
               "type": "color"
@@ -1490,10 +1494,6 @@
               "value": "{colors.teal.75}",
               "type": "color",
               "description": "用于浅色按钮、标签等"
-            },
-            "selected": {
-              "value": "{colors.teal.700}",
-              "type": "color"
             }
           },
           "error": {
@@ -1708,6 +1708,10 @@
             "value": "{colors.teal.700}",
             "type": "color"
           },
+          "inProgress": {
+            "value": "{colors.teal.700}",
+            "type": "color"
+          },
           "warning": {
             "value": "{colors.orange.500}",
             "type": "color"
@@ -1720,21 +1724,17 @@
             "value": "{colors.red.300}",
             "type": "color"
           },
-          "notStarted": {
-            "value": "{colors.blue.400}",
-            "type": "color"
-          },
           "notStarted-subtle": {
             "value": "{colors.blue.50}",
             "type": "color",
             "description": "用于标签等"
           },
-          "notStartedDarker": {
-            "value": "{colors.blue.500}",
+          "notStarted": {
+            "value": "{colors.blue.400}",
             "type": "color"
           },
-          "inProgress": {
-            "value": "{colors.teal.700}",
+          "notStartedDarker": {
+            "value": "{colors.blue.500}",
             "type": "color"
           },
           "ended": {
