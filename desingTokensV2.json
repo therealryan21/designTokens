@@ -1708,6 +1708,10 @@
             "value": "{colors.orange.500}",
             "type": "color"
           },
+          "closingSoon": {
+            "value": "{colors.red.300}",
+            "type": "color"
+          },
           "error": {
             "value": "{colors.red.300}",
             "type": "color"
@@ -1716,12 +1720,12 @@
             "value": "{colors.blue.400}",
             "type": "color"
           },
-          "inProgress": {
-            "value": "{colors.teal.700}",
+          "notStartedDarker": {
+            "value": "{colors.blue.500}",
             "type": "color"
           },
-          "closingSoon": {
-            "value": "{colors.red.300}",
+          "inProgress": {
+            "value": "{colors.teal.700}",
             "type": "color"
           },
           "ended": {
