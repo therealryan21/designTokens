@@ -1470,6 +1470,10 @@
           "disabled": {
             "value": "{colors.slate.250}",
             "type": "color"
+          },
+          "disabled-subtle": {
+            "value": "{colors.slate.50}",
+            "type": "color"
           }
         },
         "status": {
