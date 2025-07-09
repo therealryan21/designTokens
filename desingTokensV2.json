@@ -1472,7 +1472,7 @@
             "type": "color"
           },
           "disabled-subtle": {
-            "value": "{colors.slate.50}",
+            "value": "{colors.slate.75}",
             "type": "color"
           }
         },
@@ -1719,6 +1719,11 @@
           "error": {
             "value": "{colors.red.300}",
             "type": "color"
+          },
+          "notStarted-subtle": {
+            "value": "{colors.blue.50}",
+            "type": "color",
+            "description": "用于标签等"
           },
           "notStarted": {
             "value": "{colors.blue.400}",
