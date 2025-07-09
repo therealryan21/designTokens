@@ -1720,14 +1720,14 @@
             "value": "{colors.red.300}",
             "type": "color"
           },
+          "notStarted": {
+            "value": "{colors.blue.400}",
+            "type": "color"
+          },
           "notStarted-subtle": {
             "value": "{colors.blue.50}",
             "type": "color",
             "description": "用于标签等"
-          },
-          "notStarted": {
-            "value": "{colors.blue.400}",
-            "type": "color"
           },
           "notStartedDarker": {
             "value": "{colors.blue.500}",
@@ -1791,6 +1791,10 @@
             "value": "{colors.blue.400}",
             "type": "color"
           },
+          "notStartedDarker": {
+            "value": "{colors.blue.500}",
+            "type": "color"
+          },
           "inProgress": {
             "value": "{colors.teal.700}",
             "type": "color"
@@ -1836,6 +1840,10 @@
           "svip-subtle": {
             "value": "{colors.red.100}",
             "type": "color"
+          },
+          "non-vip": {
+            "value": "{colors.red.250}",
+            "type": "color"
           }
         },
         "identity": {
@@ -1871,6 +1879,10 @@
           },
           "disabled": {
             "value": "{colors.slate.250}",
+            "type": "color"
+          },
+          "disabled-subtle": {
+            "value": "{colors.slate.75}",
             "type": "color"
           }
         },
@@ -1980,16 +1992,24 @@
             "value": "{colors.teal.650}",
             "type": "color"
           },
-          "l-orange": {
-            "value": "{colors.orange.500}",
-            "type": "color"
-          },
           "r": {
             "value": "{colors.cyan.450}",
             "type": "color"
           },
+          "l-orange": {
+            "value": "{colors.orange.500}",
+            "type": "color"
+          },
           "r-orange": {
             "value": "{colors.orange.550}",
+            "type": "color"
+          },
+          "r-blue": {
+            "value": "{colors.blue.500}",
+            "type": "color"
+          },
+          "l-blue": {
+            "value": "{colors.blue.400}",
             "type": "color"
           }
         }
@@ -2022,6 +2042,10 @@
           },
           "notStarted": {
             "value": "{colors.blue.400}",
+            "type": "color"
+          },
+          "notStartedDarker": {
+            "value": "{colors.blue.500}",
             "type": "color"
           },
           "success": {
@@ -2061,10 +2085,14 @@
             "type": "color"
           },
           "secondary": {
+            "value": "{colors.slate.750}",
+            "type": "color"
+          },
+          "quaternary": {
             "value": "{colors.slate.350}",
             "type": "color"
           },
-          "tertialry": {
+          "quinary": {
             "value": "{colors.slate.250}",
             "type": "color"
           },
@@ -2094,6 +2122,10 @@
             "value": "{colors.orange.500}",
             "type": "color"
           },
+          "closingSoon": {
+            "value": "{colors.red.300}",
+            "type": "color"
+          },
           "error": {
             "value": "{colors.red.300}",
             "type": "color"
@@ -2102,12 +2134,17 @@
             "value": "{colors.blue.400}",
             "type": "color"
           },
-          "inProgress": {
-            "value": "{colors.teal.700}",
+          "notStarted-subtle": {
+            "value": "{colors.blue.50}",
+            "type": "color",
+            "description": "用于标签等"
+          },
+          "notStartedDarker": {
+            "value": "{colors.blue.500}",
             "type": "color"
           },
-          "closingSoon": {
-            "value": "{colors.red.300}",
+          "inProgress": {
+            "value": "{colors.teal.700}",
             "type": "color"
           },
           "ended": {
