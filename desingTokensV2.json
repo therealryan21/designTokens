@@ -160,6 +160,11 @@
         "950": {
           "value": "#331f00",
           "type": "color"
+        },
+        "980": {
+          "value": "#0D0B06",
+          "type": "color",
+          "description": "VIP渐变按钮"
         }
       },
       "slate": {
@@ -1611,6 +1616,14 @@
           },
           "l-blue": {
             "value": "{colors.blue.400}",
+            "type": "color"
+          },
+          "l-vip": {
+            "value": "{colors.orange.900}",
+            "type": "color"
+          },
+          "r-vip": {
+            "value": "{colors.orange.980}",
             "type": "color"
           }
         }
