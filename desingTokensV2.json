@@ -112,7 +112,8 @@
         },
         "110": {
           "value": "#FEDEB1",
-          "type": "color"
+          "type": "color",
+          "description": "VIP浅色字体"
         },
         "200": {
           "value": "#ffcd80",
@@ -120,7 +121,8 @@
         },
         "300": {
           "value": "#ffb84d",
-          "type": "color"
+          "type": "color",
+          "description": "VIP用色"
         },
         "400": {
           "value": "#ffa41a",
@@ -143,7 +145,7 @@
           "type": "color"
         },
         "750": {
-          "value": "#8F5932",
+          "value": "#995200",
           "type": "color",
           "description": "VIP用色"
         },
@@ -1424,7 +1426,7 @@
             "type": "color"
           },
           "vip-subtle": {
-            "value": "{colors.orange.100}",
+            "value": "{colors.orange.110}",
             "type": "color"
           },
           "svip-primary": {
