@@ -1690,6 +1690,12 @@
             "value": "{colors.slate.250}",
             "type": "color"
           }
+        },
+        "vip": {
+          "primary": {
+            "value": "{colors.orange.300}",
+            "type": "color"
+          }
         }
       },
       "icon": {
@@ -1763,6 +1769,12 @@
           },
           "ended": {
             "value": "{colors.slate.250}",
+            "type": "color"
+          }
+        },
+        "vip": {
+          "primary": {
+            "value": "{colors.orange.300}",
             "type": "color"
           }
         }
