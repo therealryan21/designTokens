@@ -106,6 +106,10 @@
           "value": "#fff5e5",
           "type": "color"
         },
+        "80": {
+          "value": "#FFF1CC",
+          "type": "color"
+        },
         "100": {
           "value": "#ffe1b3",
           "type": "color"
@@ -114,6 +118,11 @@
           "value": "#FEDEB1",
           "type": "color",
           "description": "VIP浅色字体"
+        },
+        "150": {
+          "value": "#FFE599",
+          "type": "color",
+          "description": "VIP背景"
         },
         "200": {
           "value": "#ffcd80",
@@ -1593,6 +1602,16 @@
             }
           }
         },
+        "vip": {
+          "primary": {
+            "value": "{colors.orange.150}",
+            "type": "color"
+          },
+          "secondary": {
+            "value": "{colors.orange.80}",
+            "type": "color"
+          }
+        },
         "gradient": {
           "l": {
             "value": "{colors.teal.650}",
@@ -1694,6 +1713,14 @@
         "vip": {
           "primary": {
             "value": "{colors.orange.300}",
+            "type": "color"
+          },
+          "secondary": {
+            "value": "{colors.orange.150}",
+            "type": "color"
+          },
+          "tertiary": {
+            "value": "{colors.orange.80}",
             "type": "color"
           }
         }
