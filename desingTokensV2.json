@@ -3156,16 +3156,6 @@
           "description": "用于单行文本"
         }
       }
-    },
-    "": {
-      "value": {
-        "fontFamily": "{fontFamily.number}",
-        "fontWeight": "Black",
-        "lineHeight": "{lineHight.l-tight}",
-        "fontSize": "10"
-      },
-      "type": "typography",
-      "description": "用于多行文本"
     }
   },
   "$themes": [],
