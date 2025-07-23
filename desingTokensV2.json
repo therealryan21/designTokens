@@ -1284,6 +1284,11 @@
         "value": "32",
         "type": "fontSizes",
         "description": "常用于标题"
+      },
+      "h10": {
+        "value": "44",
+        "type": "fontSizes",
+        "description": "常用于标题、数字"
       }
     },
     "paragraph": {
@@ -2693,7 +2698,7 @@
             "fontFamily": "{fontFamily.number}",
             "fontWeight": "Bold",
             "lineHeight": "{lineHight.l-tight}",
-            "fontSize": "44"
+            "fontSize": "{heading.h10}"
           },
           "type": "typography",
           "description": "用于特殊数字"
@@ -2703,7 +2708,7 @@
             "fontFamily": "{fontFamily.number}",
             "fontWeight": "Black",
             "lineHeight": "{lineHight.l-tight}",
-            "fontSize": "44"
+            "fontSize": "{heading.h10}"
           },
           "type": "typography",
           "description": "用于特殊数字"
