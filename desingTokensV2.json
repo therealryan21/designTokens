@@ -1893,7 +1893,7 @@
             "type": "color"
           },
           "vip-subtle": {
-            "value": "{colors.orange.100}",
+            "value": "{colors.orange.110}",
             "type": "color"
           },
           "svip-primary": {
@@ -1925,6 +1925,11 @@
           "secondary": {
             "value": "{colors.slate.50}",
             "type": "color"
+          },
+          "tertiary": {
+            "value": "{colors.blue.10}",
+            "type": "color",
+            "description": "用于卡片背景"
           },
           "default": {
             "value": "{colors.white.1000}",
@@ -2050,6 +2055,16 @@
             }
           }
         },
+        "vip": {
+          "primary": {
+            "value": "{colors.orange.150}",
+            "type": "color"
+          },
+          "secondary": {
+            "value": "{colors.orange.80}",
+            "type": "color"
+          }
+        },
         "gradient": {
           "l": {
             "value": "{colors.teal.650}",
@@ -2073,6 +2088,14 @@
           },
           "l-blue": {
             "value": "{colors.blue.400}",
+            "type": "color"
+          },
+          "l-vip": {
+            "value": "{colors.orange.900}",
+            "type": "color"
+          },
+          "r-vip": {
+            "value": "{colors.orange.980}",
             "type": "color"
           }
         }
@@ -2139,6 +2162,20 @@
             "value": "{colors.slate.250}",
             "type": "color"
           }
+        },
+        "vip": {
+          "primary": {
+            "value": "{colors.orange.300}",
+            "type": "color"
+          },
+          "secondary": {
+            "value": "{colors.orange.150}",
+            "type": "color"
+          },
+          "tertiary": {
+            "value": "{colors.orange.80}",
+            "type": "color"
+          }
         }
       },
       "icon": {
@@ -2193,14 +2230,14 @@
             "value": "{colors.red.300}",
             "type": "color"
           },
-          "notStarted": {
-            "value": "{colors.blue.400}",
-            "type": "color"
-          },
           "notStarted-subtle": {
             "value": "{colors.blue.50}",
             "type": "color",
             "description": "用于标签等"
+          },
+          "notStarted": {
+            "value": "{colors.blue.400}",
+            "type": "color"
           },
           "notStartedDarker": {
             "value": "{colors.blue.500}",
@@ -2212,6 +2249,12 @@
           },
           "ended": {
             "value": "{colors.slate.250}",
+            "type": "color"
+          }
+        },
+        "vip": {
+          "primary": {
+            "value": "{colors.orange.300}",
             "type": "color"
           }
         }
@@ -2466,6 +2509,28 @@
           },
           "type": "typography",
           "description": "用于单行文本"
+        }
+      },
+      "n00": {
+        "bold": {
+          "value": {
+            "fontFamily": "{fontFamily.number}",
+            "fontWeight": "Bold",
+            "fontSize": "{body.b0}",
+            "lineHeight": "{lineHight.l-tight}"
+          },
+          "type": "typography",
+          "description": "用于数字"
+        },
+        "black": {
+          "value": {
+            "fontFamily": "{fontFamily.number}",
+            "fontWeight": "Black",
+            "fontSize": "{body.b0}",
+            "lineHeight": "{lineHight.l-tight}"
+          },
+          "type": "typography",
+          "description": "用于数字"
         }
       },
       "n0": {
