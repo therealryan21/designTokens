@@ -2376,7 +2376,7 @@
             "fontFamily": "{fontFamily.default}",
             "fontWeight": "Semibold",
             "fontSize": "{body.b1}",
-            "lineHeight": "{lineHight.l-default}"
+            "lineHeight": "{lineHight.l-tight}"
           },
           "type": "typography",
           "description": "用于单行文本"
