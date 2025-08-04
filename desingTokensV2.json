@@ -1134,6 +1134,56 @@
         "type": "opacity",
         "description": "仅用于不透明度"
       },
+      "o01": {
+        "value": "0.01",
+        "type": "opacity",
+        "description": "仅用于不透明度"
+      },
+      "o02": {
+        "value": "0.02",
+        "type": "opacity",
+        "description": "仅用于不透明度"
+      },
+      "o03": {
+        "value": "0.03",
+        "type": "opacity",
+        "description": "仅用于不透明度"
+      },
+      "o04": {
+        "value": "0.04",
+        "type": "opacity",
+        "description": "仅用于不透明度"
+      },
+      "o05": {
+        "value": "0.05",
+        "type": "opacity",
+        "description": "仅用于不透明度"
+      },
+      "o06": {
+        "value": "0.06",
+        "type": "opacity",
+        "description": "仅用于不透明度"
+      },
+      "o07": {
+        "value": "0.07",
+        "type": "opacity",
+        "description": "仅用于不透明度"
+      },
+      "o08": {
+        "value": "0.08",
+        "type": "opacity",
+        "description": "仅用于不透明度"
+      },
+      "o09": {
+        "value": "0.09",
+        "type": "opacity",
+        "description": "仅用于不透明度"
+      },
+      "o10": {
+        "value": "0.1",
+        "type": "opacity",
+        "description": "仅用于不透明度"
+      },
       "o40": {
         "value": "0.4",
         "type": "opacity",
