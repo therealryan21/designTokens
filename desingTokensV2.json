@@ -1134,23 +1134,53 @@
         "type": "opacity",
         "description": "仅用于不透明度"
       },
+      "o01": {
+        "value": "0.01",
+        "type": "opacity",
+        "description": "仅用于不透明度"
+      },
+      "o02": {
+        "value": "0.02",
+        "type": "opacity",
+        "description": "仅用于不透明度"
+      },
+      "o03": {
+        "value": "0.03",
+        "type": "opacity",
+        "description": "仅用于不透明度"
+      },
+      "o04": {
+        "value": "0.04",
+        "type": "opacity",
+        "description": "仅用于不透明度"
+      },
       "o05": {
         "value": "0.05",
         "type": "opacity",
         "description": "仅用于不透明度"
       },
+      "o06": {
+        "value": "0.06",
+        "type": "opacity",
+        "description": "仅用于不透明度"
+      },
+      "o07": {
+        "value": "0.07",
+        "type": "opacity",
+        "description": "仅用于不透明度"
+      },
+      "o08": {
+        "value": "0.08",
+        "type": "opacity",
+        "description": "仅用于不透明度"
+      },
+      "o09": {
+        "value": "0.09",
+        "type": "opacity",
+        "description": "仅用于不透明度"
+      },
       "o10": {
         "value": "0.1",
-        "type": "opacity",
-        "description": "仅用于不透明度"
-      },
-      "o20": {
-        "value": "0.2",
-        "type": "opacity",
-        "description": "仅用于不透明度"
-      },
-      "o30": {
-        "value": "0.3",
         "type": "opacity",
         "description": "仅用于不透明度"
       },
@@ -1164,11 +1194,6 @@
         "type": "opacity",
         "description": "仅用于不透明度"
       },
-      "o60": {
-        "value": "0.6",
-        "type": "opacity",
-        "description": "仅用于不透明度"
-      },
       "o70": {
         "value": "0.7",
         "type": "opacity",
@@ -1176,11 +1201,6 @@
       },
       "o80": {
         "value": "0.8",
-        "type": "opacity",
-        "description": "仅用于不透明度"
-      },
-      "o90": {
-        "value": "0.9",
         "type": "opacity",
         "description": "仅用于不透明度"
       },
@@ -1318,7 +1338,12 @@
       "h10": {
         "value": "44",
         "type": "fontSizes",
-        "description": "常用于标题、数字"
+        "description": "常用于数字"
+      },
+      "h12": {
+        "value": "64",
+        "type": "fontSizes",
+        "description": "常用于数字"
       }
     },
     "paragraph": {
@@ -1343,30 +1368,6 @@
       "05": {
         "value": "0.5",
         "type": "borderWidth"
-      }
-    },
-    "shadow": {
-      "default": {
-        "value": {
-          "x": "0",
-          "y": "4",
-          "blur": "8",
-          "spread": "0",
-          "color": "{colors.black.100}",
-          "type": "dropShadow"
-        },
-        "type": "boxShadow"
-      },
-      "large": {
-        "value": {
-          "x": "0",
-          "y": "8",
-          "blur": "16",
-          "spread": "0",
-          "color": "{colors.black.100}",
-          "type": "dropShadow"
-        },
-        "type": "boxShadow"
       }
     }
   },
@@ -2719,6 +2720,28 @@
             "fontWeight": "Black",
             "lineHeight": "{lineHight.l-tight}",
             "fontSize": "{heading.h10}"
+          },
+          "type": "typography",
+          "description": "用于特殊数字"
+        }
+      },
+      "n10": {
+        "bold": {
+          "value": {
+            "fontFamily": "{fontFamily.number}",
+            "fontWeight": "Bold",
+            "lineHeight": "{lineHight.l-tight}",
+            "fontSize": "{heading.h12}"
+          },
+          "type": "typography",
+          "description": "用于特殊数字"
+        },
+        "black": {
+          "value": {
+            "fontFamily": "{fontFamily.number}",
+            "fontWeight": "Black",
+            "lineHeight": "{lineHight.l-tight}",
+            "fontSize": "{heading.h12}"
           },
           "type": "typography",
           "description": "用于特殊数字"
