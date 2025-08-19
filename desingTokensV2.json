@@ -1659,11 +1659,11 @@
             "type": "color"
           },
           "white": {
-            "value": "{colors.bg.basic.default}",
+            "value": "{colors.white.1000}",
             "type": "color"
           },
           "gray1": {
-            "value": "{colors.bg.basic.tertiary}",
+            "value": "{colors.blue.10}",
             "type": "color"
           },
           "l-vip": {
