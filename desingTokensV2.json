@@ -1654,6 +1654,18 @@
             "value": "{colors.blue.400}",
             "type": "color"
           },
+          "l-blue2": {
+            "value": "{colors.sky.100}",
+            "type": "color"
+          },
+          "white": {
+            "value": "{colors.bg.basic.default}",
+            "type": "color"
+          },
+          "gray1": {
+            "value": "{colors.bg.basic.tertiary}",
+            "type": "color"
+          },
           "l-vip": {
             "value": "{colors.orange.900}",
             "type": "color"
