@@ -1670,6 +1670,14 @@
             "value": "{colors.orange.550}",
             "type": "color"
           },
+          "l-orange2": {
+            "value": "{colors.orange.300}",
+            "type": "color"
+          },
+          "r-orange2": {
+            "value": "{colors.orange.500}",
+            "type": "color"
+          },
           "r-blue": {
             "value": "{colors.blue.500}",
             "type": "color"
