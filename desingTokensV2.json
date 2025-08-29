@@ -2,100 +2,12 @@
   "core": {
     "colors": {
       "black": {
-        "50": {
-          "value": "#0000000d",
-          "type": "color"
-        },
-        "100": {
-          "value": "#0000001a",
-          "type": "color"
-        },
-        "200": {
-          "value": "#00000033",
-          "type": "color"
-        },
-        "300": {
-          "value": "#0000004d",
-          "type": "color"
-        },
-        "400": {
-          "value": "#00000066",
-          "type": "color"
-        },
-        "500": {
-          "value": "#00000080",
-          "type": "color"
-        },
-        "600": {
-          "value": "#00000099",
-          "type": "color"
-        },
-        "700": {
-          "value": "#000000b3",
-          "type": "color"
-        },
-        "800": {
-          "value": "#000000cc",
-          "type": "color"
-        },
-        "900": {
-          "value": "#000000e6",
-          "type": "color"
-        },
-        "950": {
-          "value": "#000000f2",
-          "type": "color"
-        },
         "1000": {
           "value": "#000000",
           "type": "color"
         }
       },
       "white": {
-        "50": {
-          "value": "#ffffff0d",
-          "type": "color"
-        },
-        "100": {
-          "value": "#ffffff1a",
-          "type": "color"
-        },
-        "200": {
-          "value": "#ffffff33",
-          "type": "color"
-        },
-        "300": {
-          "value": "#ffffff4d",
-          "type": "color"
-        },
-        "400": {
-          "value": "#ffffff66",
-          "type": "color"
-        },
-        "500": {
-          "value": "#ffffff80",
-          "type": "color"
-        },
-        "600": {
-          "value": "#ffffff99",
-          "type": "color"
-        },
-        "700": {
-          "value": "#ffffffb3",
-          "type": "color"
-        },
-        "800": {
-          "value": "#ffffffcc",
-          "type": "color"
-        },
-        "900": {
-          "value": "#ffffffe6",
-          "type": "color"
-        },
-        "950": {
-          "value": "#fffffff2",
-          "type": "color"
-        },
         "1000": {
           "value": "#ffffff",
           "type": "color"
