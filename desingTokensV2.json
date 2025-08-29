@@ -2144,6 +2144,14 @@
             "value": "{colors.orange.550}",
             "type": "color"
           },
+          "l-orange2": {
+            "value": "{colors.orange.300}",
+            "type": "color"
+          },
+          "r-orange2": {
+            "value": "{colors.orange.500}",
+            "type": "color"
+          },
           "r-blue": {
             "value": "{colors.blue.500}",
             "type": "color"
@@ -2157,11 +2165,11 @@
             "type": "color"
           },
           "white": {
-            "value": "{colors.bg.basic.default}",
+            "value": "{colors.white.1000}",
             "type": "color"
           },
           "gray1": {
-            "value": "{colors.bg.basic.tertiary}",
+            "value": "{colors.blue.10}",
             "type": "color"
           },
           "l-vip": {
