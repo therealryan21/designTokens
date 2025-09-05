@@ -2443,6 +2443,68 @@
           "description": "用于单行文本"
         }
       },
+      "b3": {
+        "regular": {
+          "value": {
+            "fontFamily": "{fontFamily.default}",
+            "fontWeight": "Regular",
+            "fontSize": "{body.b3}",
+            "lineHeight": "{lineHight.l-default}"
+          },
+          "type": "typography",
+          "description": "用于多行文本"
+        },
+        "regular-single": {
+          "value": {
+            "fontFamily": "{fontFamily.default}",
+            "fontWeight": "Regular",
+            "fontSize": "{body.b3}",
+            "lineHeight": "{lineHight.l-tight}"
+          },
+          "type": "typography",
+          "description": "用于单行文本"
+        },
+        "medium": {
+          "value": {
+            "fontFamily": "{fontFamily.default}",
+            "fontWeight": "Medium",
+            "fontSize": "{body.b3}",
+            "lineHeight": "{lineHight.l-default}"
+          },
+          "type": "typography",
+          "description": "用于多行文本"
+        },
+        "medium-single": {
+          "value": {
+            "fontFamily": "{fontFamily.default}",
+            "fontWeight": "Medium",
+            "fontSize": "{body.b3}",
+            "lineHeight": "{lineHight.l-tight}"
+          },
+          "type": "typography",
+          "description": "用于单行文本"
+        },
+        "bold": {
+          "value": {
+            "fontFamily": "{fontFamily.default}",
+            "fontWeight": "Semibold",
+            "fontSize": "{body.b3}",
+            "lineHeight": "{lineHight.l-default}"
+          },
+          "type": "typography",
+          "description": "用于多行文本"
+        },
+        "bold-single": {
+          "value": {
+            "fontFamily": "{fontFamily.default}",
+            "fontWeight": "Semibold",
+            "fontSize": "{body.b3}",
+            "lineHeight": "{lineHight.l-tight}"
+          },
+          "type": "typography",
+          "description": "用于单行文本"
+        }
+      },
       "b4": {
         "regular": {
           "value": {
