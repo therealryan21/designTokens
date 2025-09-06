@@ -1160,6 +1160,11 @@
         "type": "fontSizes",
         "description": "用于内容文本，非标题"
       },
+      "b00": {
+        "value": "9",
+        "type": "fontSizes",
+        "description": "用于小标签"
+      },
       "b1": {
         "value": "11",
         "type": "fontSizes",
@@ -2317,6 +2322,18 @@
           },
           "type": "typography",
           "description": "用于单行文本"
+        }
+      },
+      "b00": {
+        "regular-single": {
+          "value": {
+            "fontFamily": "{fontFamily.default}",
+            "fontWeight": "Regular",
+            "fontSize": "{body.b00}",
+            "lineHeight": "{lineHight.l-tight}"
+          },
+          "type": "typography",
+          "description": "用于小标签"
         }
       },
       "b1": {
