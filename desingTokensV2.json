@@ -1507,6 +1507,11 @@
             "secondary": {
               "value": "{colors.blue.50}",
               "type": "color"
+            },
+            "tertiary": {
+              "value": "{colors.blue.100}",
+              "type": "color",
+              "description": "用于灰色底"
             }
           },
           "success": {
