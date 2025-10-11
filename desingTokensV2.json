@@ -1632,6 +1632,10 @@
       },
       "border": {
         "basic": {
+          "primary": {
+            "value": "{colors.slate.100}",
+            "type": "color"
+          },
           "default": {
             "value": "{colors.slate.75}",
             "type": "color"
