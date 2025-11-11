@@ -163,6 +163,10 @@
         }
       },
       "red": {
+        "10": {
+          "value": "#FFF8F7",
+          "type": "color"
+        },
         "50": {
           "value": "#ffe9e5",
           "type": "color"
