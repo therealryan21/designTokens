@@ -1620,6 +1620,10 @@
             "value": "{colors.white.1000}",
             "type": "color"
           },
+          "red1": {
+            "value": "{colors.red.10}",
+            "type": "color"
+          },
           "gray1": {
             "value": "{colors.blue.10}",
             "type": "color"
@@ -2113,6 +2117,10 @@
           },
           "r-vip": {
             "value": "{colors.orange.980}",
+            "type": "color"
+          },
+          "red1": {
+            "value": "{colors.red.10}",
             "type": "color"
           }
         }
