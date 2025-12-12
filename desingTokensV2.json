@@ -1734,6 +1734,10 @@
             "value": "{colors.slate.750}",
             "type": "color"
           },
+          "tertiary": {
+            "value": "{colors.slate.650}",
+            "type": "color"
+          },
           "quaternary": {
             "value": "{colors.slate.350}",
             "type": "color"
