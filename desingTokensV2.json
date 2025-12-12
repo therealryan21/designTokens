@@ -1031,6 +1031,10 @@
         "value": "8",
         "type": "borderRadius"
       },
+      "r10": {
+        "value": "10",
+        "type": "borderRadius"
+      },
       "r5": {
         "value": "12",
         "type": "borderRadius"
@@ -1298,7 +1302,7 @@
           "y": "4",
           "blur": "8",
           "spread": "0",
-          "color": "{colors.black.100}",
+          "color": "{colors.bg.basic.mask}",
           "type": "dropShadow"
         },
         "type": "boxShadow"
@@ -1309,7 +1313,7 @@
           "y": "8",
           "blur": "16",
           "spread": "0",
-          "color": "{colors.black.100}",
+          "color": "{colors.bg.basic.mask}",
           "type": "dropShadow"
         },
         "type": "boxShadow"
