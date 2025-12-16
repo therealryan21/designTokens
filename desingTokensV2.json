@@ -1657,7 +1657,7 @@
         },
         "tag": {
           "primary": {
-            "value": "#",
+            "value": "{colors.slate.800}",
             "type": "color"
           }
         }
