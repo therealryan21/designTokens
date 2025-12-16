@@ -1473,6 +1473,10 @@
               "value": "{colors.teal.700}",
               "type": "color"
             },
+            "darker": {
+              "value": "{colors.teal.800}",
+              "type": "color"
+            },
             "secondary": {
               "value": "{colors.teal.50}",
               "type": "color"
@@ -1638,6 +1642,22 @@
           },
           "r-vip": {
             "value": "{colors.orange.980}",
+            "type": "color"
+          }
+        },
+        "card": {
+          "primary": {
+            "value": "{colors.bg.gradient.white}",
+            "type": "color"
+          },
+          "secondary": {
+            "value": "{colors.bg.basic.appbg}",
+            "type": "color"
+          }
+        },
+        "tag": {
+          "primary": {
+            "value": "#",
             "type": "color"
           }
         }
@@ -1968,6 +1988,10 @@
               "value": "{colors.teal.700}",
               "type": "color"
             },
+            "darker": {
+              "value": "{colors.teal.800}",
+              "type": "color"
+            },
             "secondary": {
               "value": "{colors.teal.50}",
               "type": "color"
@@ -2135,12 +2159,32 @@
             "value": "{colors.orange.980}",
             "type": "color"
           }
+        },
+        "card": {
+          "primary": {
+            "value": "{colors.bg.gradient.white}",
+            "type": "color"
+          },
+          "secondary": {
+            "value": "{colors.bg.basic.appbg}",
+            "type": "color"
+          }
+        },
+        "tag": {
+          "primary": {
+            "value": "#",
+            "type": "color"
+          }
         }
       },
       "border": {
         "basic": {
           "primary": {
             "value": "{colors.slate.100}",
+            "type": "color"
+          },
+          "secondary": {
+            "value": "{colors.slate.50}",
             "type": "color"
           },
           "default": {
