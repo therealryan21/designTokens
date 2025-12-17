@@ -1782,12 +1782,16 @@
             "value": "{colors.slate.250}",
             "type": "color"
           },
-          "disabled": {
-            "value": "{colors.slate.200}",
+          "subtle": {
+            "value": "{colors.slate.75}",
             "type": "color"
           },
           "onbrand": {
             "value": "{colors.white.1000}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{colors.slate.200}",
             "type": "color"
           }
         },
