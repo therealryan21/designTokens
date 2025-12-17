@@ -1647,7 +1647,7 @@
         },
         "card": {
           "primary": {
-            "value": "{colors.bg.gradient.white}",
+            "value": "{colors.white.1000}",
             "type": "color"
           },
           "secondary": {
@@ -1856,27 +1856,27 @@
       "text": {
         "basic": {
           "primary": {
-            "value": "{colors.slate.950}",
+            "value": "{colors.slate.10}",
             "type": "color"
           },
           "secondary": {
-            "value": "{colors.slate.750}",
+            "value": "{colors.slate.100}",
             "type": "color"
           },
           "tertialry": {
-            "value": "{colors.slate.650}",
+            "value": "{colors.slate.400}",
             "type": "color"
           },
           "quaternary": {
-            "value": "{colors.slate.350}",
+            "value": "{colors.slate.600}",
             "type": "color"
           },
           "quinary": {
-            "value": "{colors.slate.250}",
+            "value": "{colors.slate.700}",
             "type": "color"
           },
           "disabled": {
-            "value": "{colors.slate.200}",
+            "value": "{colors.slate.800}",
             "type": "color"
           },
           "onbrand": {
@@ -1962,24 +1962,24 @@
       "bg": {
         "basic": {
           "appbg": {
-            "value": "{colors.slate.10}",
+            "value": "{colors.slate.950}",
             "type": "color"
           },
           "secondary": {
-            "value": "{colors.slate.50}",
+            "value": "{colors.slate.800}",
             "type": "color"
           },
           "tertiary": {
-            "value": "{colors.blue.10}",
+            "value": "{colors.slate.950}",
             "type": "color",
             "description": "用于卡片背景"
           },
           "default": {
-            "value": "{colors.white.1000}",
+            "value": "{colors.slate.950}",
             "type": "color"
           },
           "mask": {
-            "value": "{colors.black.1000}",
+            "value": "{colors.slate.500}",
             "type": "color",
             "description": "在用于投影、遮罩时，因设计与开发工具的冲突（设计使用rgba、开发使用argb），需将组建具体应用后，对填充和不透明度封层处理。"
           }
@@ -1990,11 +1990,11 @@
             "type": "color"
           },
           "disabled": {
-            "value": "{colors.slate.250}",
+            "value": "{colors.slate.800}",
             "type": "color"
           },
           "disabled-subtle": {
-            "value": "{colors.slate.75}",
+            "value": "{colors.slate.900}",
             "type": "color"
           }
         },
@@ -2009,11 +2009,11 @@
               "type": "color"
             },
             "secondary": {
-              "value": "{colors.teal.50}",
+              "value": "{colors.teal.950}",
               "type": "color"
             },
             "subtle": {
-              "value": "{colors.teal.75}",
+              "value": "{colors.teal.950}",
               "type": "color",
               "description": "用于浅色按钮、标签等"
             },
@@ -2178,23 +2178,23 @@
         },
         "card": {
           "primary": {
-            "value": "{colors.bg.gradient.white}",
+            "value": "{colors.slate.900}",
             "type": "color"
           },
           "secondary": {
-            "value": "{colors.bg.basic.appbg}",
+            "value": "{colors.slate.800}",
             "type": "color"
           }
         },
         "tag": {
           "primary": {
-            "value": "{colors.slate.10}",
+            "value": "{colors.slate.800}",
             "type": "color"
           }
         },
         "search": {
           "primary": {
-            "value": "{colors.slate.10}",
+            "value": "{colors.slate.900}",
             "type": "color"
           }
         }
@@ -2202,15 +2202,15 @@
       "border": {
         "basic": {
           "primary": {
-            "value": "{colors.slate.100}",
+            "value": "{colors.slate.700}",
             "type": "color"
           },
           "secondary": {
-            "value": "{colors.slate.50}",
+            "value": "{colors.slate.600}",
             "type": "color"
           },
           "default": {
-            "value": "{colors.slate.75}",
+            "value": "{colors.slate.800}",
             "type": "color"
           },
           "onbrand": {
@@ -2286,7 +2286,7 @@
         },
         "badge": {
           "primary": {
-            "value": "{colors.white.1000}",
+            "value": "{colors.slate.900}",
             "type": "color"
           }
         }
