@@ -1666,6 +1666,12 @@
             "value": "{colors.slate.10}",
             "type": "color"
           }
+        },
+        "badge": {
+          "primary": {
+            "value": "{colors.white.1000}",
+            "type": "color"
+          }
         }
       },
       "border": {
@@ -2185,6 +2191,12 @@
         "search": {
           "primary": {
             "value": "{colors.slate.10}",
+            "type": "color"
+          }
+        },
+        "badge": {
+          "primary": {
+            "value": "{colors.white.1000}",
             "type": "color"
           }
         }
