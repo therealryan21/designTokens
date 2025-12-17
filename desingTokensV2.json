@@ -1666,12 +1666,6 @@
             "value": "{colors.slate.10}",
             "type": "color"
           }
-        },
-        "badge": {
-          "primary": {
-            "value": "{colors.white.1000}",
-            "type": "color"
-          }
         }
       },
       "border": {
@@ -1756,6 +1750,12 @@
           },
           "tertiary": {
             "value": "{colors.orange.80}",
+            "type": "color"
+          }
+        },
+        "badge": {
+          "primary": {
+            "value": "{colors.white.1000}",
             "type": "color"
           }
         }
@@ -2193,12 +2193,6 @@
             "value": "{colors.slate.10}",
             "type": "color"
           }
-        },
-        "badge": {
-          "primary": {
-            "value": "{colors.white.1000}",
-            "type": "color"
-          }
         }
       },
       "border": {
@@ -2283,6 +2277,12 @@
           },
           "tertiary": {
             "value": "{colors.orange.80}",
+            "type": "color"
+          }
+        },
+        "badge": {
+          "primary": {
+            "value": "{colors.white.1000}",
             "type": "color"
           }
         }
