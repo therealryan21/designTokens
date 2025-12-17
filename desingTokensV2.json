@@ -1660,6 +1660,12 @@
             "value": "{colors.slate.10}",
             "type": "color"
           }
+        },
+        "search": {
+          "primary": {
+            "value": "{colors.slate.10}",
+            "type": "color"
+          }
         }
       },
       "border": {
@@ -2172,7 +2178,13 @@
         },
         "tag": {
           "primary": {
-            "value": "#",
+            "value": "{colors.slate.10}",
+            "type": "color"
+          }
+        },
+        "search": {
+          "primary": {
+            "value": "{colors.slate.10}",
             "type": "color"
           }
         }
