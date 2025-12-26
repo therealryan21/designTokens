@@ -1697,6 +1697,10 @@
           "onbrand": {
             "value": "{colors.white.1000}",
             "type": "color"
+          },
+          "bright": {
+            "value": "{colors.white.1000}",
+            "type": "color"
           }
         },
         "interaction": {
@@ -2231,6 +2235,10 @@
           },
           "onbrand": {
             "value": "{colors.white.1000}",
+            "type": "color"
+          },
+          "bright": {
+            "value": "{colors.slate.950}",
             "type": "color"
           }
         },
