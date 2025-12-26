@@ -2310,27 +2310,27 @@
       "icon": {
         "basic": {
           "primary": {
-            "value": "{colors.slate.950}",
+            "value": "{colors.white.1000}",
             "type": "color"
           },
           "secondary": {
-            "value": "{colors.slate.750}",
+            "value": "{colors.slate.100}",
             "type": "color"
           },
           "tertiary": {
-            "value": "{colors.slate.650}",
-            "type": "color"
-          },
-          "quaternary": {
             "value": "{colors.slate.350}",
             "type": "color"
           },
+          "quaternary": {
+            "value": "{colors.slate.400}",
+            "type": "color"
+          },
           "quinary": {
-            "value": "{colors.slate.250}",
+            "value": "{colors.slate.600}",
             "type": "color"
           },
           "subtle": {
-            "value": "{colors.slate.75}",
+            "value": "{colors.slate.700}",
             "type": "color"
           },
           "onbrand": {
@@ -2338,7 +2338,7 @@
             "type": "color"
           },
           "disabled": {
-            "value": "{colors.slate.200}",
+            "value": "{colors.slate.800}",
             "type": "color"
           }
         },
