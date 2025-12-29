@@ -2201,6 +2201,10 @@
             "value": "{colors.slate.900}",
             "type": "color"
           },
+          "dialog": {
+            "value": "{colors.slate.800}",
+            "type": "color"
+          },
           "secondary": {
             "value": "{colors.slate.800}",
             "type": "color"
