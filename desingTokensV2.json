@@ -2498,6 +2498,16 @@
           },
           "type": "typography",
           "description": "用于小标签"
+        },
+        "medium-single": {
+          "value": {
+            "fontFamily": "{fontFamily.default}",
+            "fontWeight": "Medium",
+            "fontSize": "{body.b00}",
+            "lineHeight": "{lineHight.l-tight}"
+          },
+          "type": "typography",
+          "description": "用于小标签"
         }
       },
       "b1": {
