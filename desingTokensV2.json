@@ -1459,6 +1459,11 @@
             "value": "{colors.black.1000}",
             "type": "color",
             "description": "在用于投影、遮罩时，因设计与开发工具的冲突（设计使用rgba、开发使用argb），需将组建具体应用后，对填充和不透明度封层处理。"
+          },
+          "mask-secondary": {
+            "value": "{colors.black.1000}",
+            "type": "color",
+            "description": "在用于投影、遮罩时，因设计与开发工具的冲突（设计使用rgba、开发使用argb），需将组建具体应用后，对填充和不透明度封层处理。"
           }
         },
         "interaction": {
@@ -2000,6 +2005,11 @@
           },
           "mask": {
             "value": "{colors.slate.500}",
+            "type": "color",
+            "description": "在用于投影、遮罩时，因设计与开发工具的冲突（设计使用rgba、开发使用argb），需将组建具体应用后，对填充和不透明度封层处理。"
+          },
+          "mask-secondary": {
+            "value": "{colors.black.1000}",
             "type": "color",
             "description": "在用于投影、遮罩时，因设计与开发工具的冲突（设计使用rgba、开发使用argb），需将组建具体应用后，对填充和不透明度封层处理。"
           }
