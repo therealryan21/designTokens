@@ -2374,7 +2374,7 @@
             "type": "color"
           },
           "accentDarker": {
-            "value": "{colors.teal.800}",
+            "value": "{colors.teal.700}",
             "type": "color"
           },
           "success": {
