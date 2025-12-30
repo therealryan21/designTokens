@@ -2058,7 +2058,7 @@
               "type": "color"
             },
             "secondary": {
-              "value": "{colors.orange.50}",
+              "value": "{colors.orange.950}",
               "type": "color"
             }
           },
