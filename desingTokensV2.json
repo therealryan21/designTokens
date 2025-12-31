@@ -1901,7 +1901,7 @@
             "type": "color"
           },
           "disabled": {
-            "value": "{colors.slate.800}",
+            "value": "{colors.slate.700}",
             "type": "color"
           },
           "onbrand": {
