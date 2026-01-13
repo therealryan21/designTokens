@@ -1506,6 +1506,10 @@
               "value": "{colors.teal.50}",
               "type": "color"
             },
+            "tertiary": {
+              "value": "{colors.teal.100}",
+              "type": "color"
+            },
             "subtle": {
               "value": "{colors.teal.75}",
               "type": "color",
@@ -2067,6 +2071,10 @@
               "type": "color"
             },
             "secondary": {
+              "value": "{colors.teal.950}",
+              "type": "color"
+            },
+            "tertiary": {
               "value": "{colors.teal.950}",
               "type": "color"
             },
