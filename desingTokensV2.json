@@ -167,6 +167,10 @@
           "value": "#FFF8F7",
           "type": "color"
         },
+        "40": {
+          "value": "#FFF4F5",
+          "type": "color"
+        },
         "50": {
           "value": "#ffe9e5",
           "type": "color"
@@ -1528,6 +1532,10 @@
             "secondary": {
               "value": "{colors.red.50}",
               "type": "color"
+            },
+            "tertiary": {
+              "value": "{colors.red.40}",
+              "type": "color"
             }
           },
           "warning": {
@@ -2095,6 +2103,10 @@
             },
             "secondary": {
               "value": "{colors.red.50}",
+              "type": "color"
+            },
+            "tertiary": {
+              "value": "{colors.red.950}",
               "type": "color"
             }
           },
