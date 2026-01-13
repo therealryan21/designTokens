@@ -333,6 +333,10 @@
           "value": "#eff6ff",
           "type": "color"
         },
+        "75": {
+          "value": "#EDF0FF",
+          "type": "color"
+        },
         "100": {
           "value": "#dbeafe",
           "type": "color"
@@ -359,6 +363,10 @@
         },
         "600": {
           "value": "#2563eb",
+          "type": "color"
+        },
+        "650": {
+          "value": "#1947FF",
           "type": "color"
         },
         "700": {
@@ -1433,6 +1441,10 @@
           "primary": {
             "value": "{colors.blue.450}",
             "type": "color"
+          },
+          "questiontag": {
+            "value": "{colors.blue.650}",
+            "type": "color"
           }
         }
       },
@@ -1687,6 +1699,10 @@
         "tag": {
           "primary": {
             "value": "{colors.slate.10}",
+            "type": "color"
+          },
+          "questiontag": {
+            "value": "{colors.blue.75}",
             "type": "color"
           }
         },
@@ -1989,6 +2005,10 @@
           "primary": {
             "value": "{colors.blue.450}",
             "type": "color"
+          },
+          "questiontag": {
+            "value": "{colors.blue.400}",
+            "type": "color"
           }
         }
       },
@@ -2235,6 +2255,10 @@
         "tag": {
           "primary": {
             "value": "{colors.slate.800}",
+            "type": "color"
+          },
+          "questiontag": {
+            "value": "{colors.blue.900}",
             "type": "color"
           }
         },
