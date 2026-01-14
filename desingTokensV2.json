@@ -1907,6 +1907,10 @@
           "primary": {
             "value": "{colors.orange.300}",
             "type": "color"
+          },
+          "secondary": {
+            "value": "{colors.orange.80}",
+            "type": "color"
           }
         }
       }
