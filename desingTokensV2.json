@@ -1180,6 +1180,11 @@
         "value": "180%",
         "type": "lineHeights",
         "description": "仅用于设计内部使用，开发用spacing设置行间距"
+      },
+      "l-paragraph-170": {
+        "value": "170%",
+        "type": "lineHeights",
+        "description": "仅用于设计内部使用，开发用spacing设置行间距"
       }
     },
     "body": {
@@ -3049,6 +3054,17 @@
             "fontWeight": "Regular",
             "fontSize": "{body.b4}",
             "lineHeight": "{lineHight.l-paragraph}",
+            "paragraphSpacing": "{paragraph.p1}"
+          },
+          "type": "typography",
+          "description": "用于大间距段落"
+        },
+        "regular-170": {
+          "value": {
+            "fontFamily": "{fontFamily.default}",
+            "fontWeight": "Regular",
+            "fontSize": "{body.b4}",
+            "lineHeight": "{lineHight.l-paragraph-170}",
             "paragraphSpacing": "{paragraph.p1}"
           },
           "type": "typography",
