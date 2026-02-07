@@ -1299,6 +1299,10 @@
       "p2": {
         "value": "16",
         "type": "paragraphSpacing"
+      },
+      "p13": {
+        "value": "13",
+        "type": "paragraphSpacing"
       }
     },
     "borderWidth": {
@@ -3057,6 +3061,30 @@
             "fontSize": "{body.b4}",
             "lineHeight": "{lineHight.l-paragraph}",
             "paragraphSpacing": "{paragraph.p1}"
+          },
+          "type": "typography",
+          "description": "用于大间距段落"
+        }
+      },
+      "b3p": {
+        "regular": {
+          "value": {
+            "fontFamily": "{fontFamily.default}",
+            "fontWeight": "Regular",
+            "fontSize": "{body.b3}",
+            "lineHeight": "{lineHight.l-paragraph}",
+            "paragraphSpacing": "{paragraph.p13}"
+          },
+          "type": "typography",
+          "description": "用于大间距段落"
+        },
+        "bold": {
+          "value": {
+            "fontFamily": "{fontFamily.default}",
+            "fontWeight": "Semibold",
+            "fontSize": "{body.b3}",
+            "lineHeight": "{lineHight.l-paragraph}",
+            "paragraphSpacing": "{paragraph.p13}"
           },
           "type": "typography",
           "description": "用于大间距段落"
