@@ -1928,6 +1928,10 @@
           "secondary": {
             "value": "{colors.orange.80}",
             "type": "color"
+          },
+          "tertiary": {
+            "value": "{colors.orange.750}",
+            "type": "color"
           }
         }
       }
@@ -2014,7 +2018,7 @@
         },
         "vip": {
           "vip-primary": {
-            "value": "{colors.orange.750}",
+            "value": "{colors.orange.700}",
             "type": "color"
           },
           "vip-subtle": {
@@ -2133,7 +2137,7 @@
           },
           "warning": {
             "default": {
-              "value": "{colors.orange.500}",
+              "value": "{colors.orange.900}",
               "type": "color"
             },
             "secondary": {
@@ -2503,6 +2507,10 @@
           },
           "secondary": {
             "value": "{colors.orange.80}",
+            "type": "color"
+          },
+          "tertiary": {
+            "value": "{colors.orange.700}",
             "type": "color"
           }
         }
