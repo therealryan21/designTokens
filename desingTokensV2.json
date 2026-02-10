@@ -1526,7 +1526,7 @@
             "subtle": {
               "value": "{colors.teal.75}",
               "type": "color",
-              "description": "用于浅色按钮、标签等"
+              "description": "用于浅色按钮等"
             },
             "selected": {
               "value": "{colors.teal.700}",
@@ -1724,6 +1724,10 @@
           },
           "questiontag": {
             "value": "{colors.blue.75}",
+            "type": "color"
+          },
+          "accent": {
+            "value": "{colors.teal.75}",
             "type": "color"
           }
         },
@@ -2292,6 +2296,10 @@
           },
           "questiontag": {
             "value": "{colors.blue.900}",
+            "type": "color"
+          },
+          "accent": {
+            "value": "{colors.teal.950}",
             "type": "color"
           }
         },
