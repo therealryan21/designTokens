@@ -1759,6 +1759,10 @@
           "bright": {
             "value": "{colors.white.1000}",
             "type": "color"
+          },
+          "disabled": {
+            "value": "{colors.slate.100}",
+            "type": "color"
           }
         },
         "interaction": {
@@ -2330,6 +2334,10 @@
           },
           "bright": {
             "value": "{colors.slate.950}",
+            "type": "color"
+          },
+          "disalbed": {
+            "value": "{colors.slate.700}",
             "type": "color"
           }
         },
