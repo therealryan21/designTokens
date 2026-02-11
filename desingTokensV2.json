@@ -2325,7 +2325,7 @@
             "type": "color"
           },
           "secondary": {
-            "value": "{colors.slate.600}",
+            "value": "{colors.slate.750}",
             "type": "color"
           },
           "default": {
@@ -2337,7 +2337,7 @@
             "type": "color"
           },
           "bright": {
-            "value": "{colors.slate.950}",
+            "value": "{colors.slate.900}",
             "type": "color"
           },
           "disalbed": {
