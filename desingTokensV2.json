@@ -1722,6 +1722,10 @@
             "value": "{colors.slate.10}",
             "type": "color"
           },
+          "secondary": {
+            "value": "{colors.white.1000}",
+            "type": "color"
+          },
           "questiontag": {
             "value": "{colors.blue.75}",
             "type": "color"
@@ -2300,6 +2304,10 @@
         "tag": {
           "primary": {
             "value": "{colors.slate.800}",
+            "type": "color"
+          },
+          "secondary": {
+            "value": "{colors.slate.900}",
             "type": "color"
           },
           "questiontag": {
