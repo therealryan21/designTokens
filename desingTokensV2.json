@@ -2490,6 +2490,10 @@
             "value": "{colors.orange.500}",
             "type": "color"
           },
+          "warningdarker": {
+            "value": "{colors.orange.550}",
+            "type": "color"
+          },
           "closingSoon": {
             "value": "{colors.red.300}",
             "type": "color"
