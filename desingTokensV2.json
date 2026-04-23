@@ -1387,6 +1387,10 @@
             "value": "{colors.orange.500}",
             "type": "color"
           },
+          "warningdarker": {
+            "value": "{colors.orange.550}",
+            "type": "color"
+          },
           "success": {
             "value": "{colors.teal.700}",
             "type": "color"
@@ -1977,6 +1981,10 @@
         "status": {
           "warning": {
             "value": "{colors.orange.500}",
+            "type": "color"
+          },
+          "warningdarker": {
+            "value": "{colors.orange.550}",
             "type": "color"
           },
           "success": {
