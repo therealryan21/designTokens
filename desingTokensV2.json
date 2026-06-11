@@ -1792,12 +1792,12 @@
             "value": "{colors.teal.800}",
             "type": "color"
           },
-          "notStarted": {
-            "value": "{colors.blue.400}",
-            "type": "color"
-          },
           "notStartedLighter": {
             "value": "{colors.blue.100}",
+            "type": "color"
+          },
+          "notStarted": {
+            "value": "{colors.blue.400}",
             "type": "color"
           },
           "notStartedDarker": {
