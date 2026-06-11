@@ -2174,6 +2174,10 @@
               "value": "{colors.blue.400}",
               "type": "color"
             },
+            "darker": {
+              "value": "{colors.blue.500}",
+              "type": "color"
+            },
             "secondary": {
               "value": "{colors.blue.50}",
               "type": "color"
@@ -2187,6 +2191,10 @@
           "success": {
             "default": {
               "value": "{colors.teal.700}",
+              "type": "color"
+            },
+            "darker": {
+              "value": "{colors.teal.800}",
               "type": "color"
             },
             "secondary": {
@@ -2368,7 +2376,7 @@
             "value": "{colors.slate.900}",
             "type": "color"
           },
-          "disalbed": {
+          "disabled": {
             "value": "{colors.slate.700}",
             "type": "color"
           }
