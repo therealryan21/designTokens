@@ -2321,6 +2321,14 @@
           "r-vip": {
             "value": "{colors.orange.980}",
             "type": "color"
+          },
+          "r-rights": {
+            "value": "{colors.red.400}",
+            "type": "color"
+          },
+          "l-rights": {
+            "value": "{colors.orange.300}",
+            "type": "color"
           }
         },
         "card": {
@@ -2466,6 +2474,10 @@
         "badge": {
           "primary": {
             "value": "{colors.slate.900}",
+            "type": "color"
+          },
+          "rights": {
+            "value": "{colors.red.400}",
             "type": "color"
           }
         }
