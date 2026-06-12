@@ -1467,6 +1467,12 @@
             "value": "{colors.blue.650}",
             "type": "color"
           }
+        },
+        "rights": {
+          "primary": {
+            "value": "{colors.orange.80}",
+            "type": "color"
+          }
         }
       },
       "bg": {
@@ -2081,6 +2087,12 @@
           },
           "questiontag": {
             "value": "{colors.blue.400}",
+            "type": "color"
+          }
+        },
+        "rights": {
+          "primary": {
+            "value": "{colors.orange.80}",
             "type": "color"
           }
         }
