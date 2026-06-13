@@ -1729,7 +1729,7 @@
             "type": "color"
           },
           "b-rights": {
-            "value": "{colors.lime.300}",
+            "value": "{colors.lime.400}",
             "type": "color"
           }
         },
