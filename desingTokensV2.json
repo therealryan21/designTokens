@@ -40,6 +40,10 @@
           "value": "#ffcd80",
           "type": "color"
         },
+        "250": {
+          "value": "#FFFF80",
+          "type": "color"
+        },
         "300": {
           "value": "#ffb84d",
           "type": "color",
@@ -1718,6 +1722,14 @@
           },
           "l-rights": {
             "value": "{colors.orange.300}",
+            "type": "color"
+          },
+          "t-rights": {
+            "value": "{colors.orange.250}",
+            "type": "color"
+          },
+          "b-rights": {
+            "value": "{colors.lime.300}",
             "type": "color"
           }
         },
