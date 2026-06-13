@@ -2353,6 +2353,14 @@
           "l-rights": {
             "value": "{colors.orange.300}",
             "type": "color"
+          },
+          "t-rights": {
+            "value": "{colors.orange.250}",
+            "type": "color"
+          },
+          "b-rights": {
+            "value": "{colors.lime.400}",
+            "type": "color"
           }
         },
         "card": {
