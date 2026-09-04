@@ -407,6 +407,10 @@
           "value": "#E5FFF8",
           "type": "color"
         },
+        "95": {
+          "value": "#E6FAF6",
+          "type": "color"
+        },
         "100": {
           "value": "#e2fdf9",
           "type": "color"
@@ -1545,6 +1549,10 @@
               "value": "{colors.teal.100}",
               "type": "color"
             },
+            "quaternary": {
+              "value": "{colors.teal.95}",
+              "type": "color"
+            },
             "subtle": {
               "value": "{colors.teal.75}",
               "type": "color",
@@ -2176,6 +2184,10 @@
               "type": "color"
             },
             "tertiary": {
+              "value": "{colors.teal.950}",
+              "type": "color"
+            },
+            "quaternary": {
               "value": "{colors.teal.950}",
               "type": "color"
             },
