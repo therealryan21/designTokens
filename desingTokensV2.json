@@ -3073,6 +3073,28 @@
           "description": "用于特殊数字"
         }
       },
+      "n20": {
+        "bold": {
+          "value": {
+            "fontFamily": "{fontFamily.number}",
+            "fontWeight": "Bold",
+            "fontSize": "{heading.h4}",
+            "lineHeight": "{lineHight.l-tight}"
+          },
+          "type": "typography",
+          "description": "用于特殊数字"
+        },
+        "black": {
+          "value": {
+            "fontFamily": "{fontFamily.number}",
+            "fontWeight": "Black",
+            "fontSize": "{heading.h4}",
+            "lineHeight": "{lineHight.l-tight}"
+          },
+          "type": "typography",
+          "description": "用于特殊数字"
+        }
+      },
       "n4": {
         "bold": {
           "value": {
