@@ -708,6 +708,10 @@
           "value": "#38bdf8",
           "type": "color"
         },
+        "450": {
+          "value": "#1CAEFE",
+          "type": "color"
+        },
         "500": {
           "value": "#0ea5e9",
           "type": "color"
@@ -1696,6 +1700,10 @@
             "value": "{colors.sky.100}",
             "type": "color"
           },
+          "l-blue3": {
+            "value": "{colors.sky.450}",
+            "type": "color"
+          },
           "white": {
             "value": "{colors.white.1000}",
             "type": "color"
@@ -2324,6 +2332,10 @@
           },
           "l-blue2": {
             "value": "{colors.sky.100}",
+            "type": "color"
+          },
+          "l-blue3": {
+            "value": "{colors.sky.450}",
             "type": "color"
           },
           "white": {
