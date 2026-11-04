@@ -1582,6 +1582,10 @@
               "value": "{colors.orange.500}",
               "type": "color"
             },
+            "warningdarker": {
+              "value": "{colors.orange.550}",
+              "type": "color"
+            },
             "secondary": {
               "value": "{colors.orange.50}",
               "type": "color"
@@ -1864,6 +1868,10 @@
           },
           "warning": {
             "value": "{colors.orange.500}",
+            "type": "color"
+          },
+          "warningdarker": {
+            "value": "{colors.orange.550}",
             "type": "color"
           },
           "ended": {
@@ -2220,6 +2228,10 @@
               "value": "{colors.orange.900}",
               "type": "color"
             },
+            "warningdarker": {
+              "value": "{colors.orange.900}",
+              "type": "color"
+            },
             "secondary": {
               "value": "{colors.orange.950}",
               "type": "color"
@@ -2502,6 +2514,10 @@
           },
           "warning": {
             "value": "{colors.orange.500}",
+            "type": "color"
+          },
+          "warningdarker": {
+            "value": "{colors.orange.550}",
             "type": "color"
           },
           "ended": {
