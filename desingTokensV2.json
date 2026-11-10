@@ -2233,7 +2233,7 @@
               "type": "color"
             },
             "secondary": {
-              "value": "{colors.orange.950}",
+              "value": "{colors.orange.900}",
               "type": "color"
             }
           },
