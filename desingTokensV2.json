@@ -1821,6 +1821,10 @@
           "disabled": {
             "value": "{colors.slate.100}",
             "type": "color"
+          },
+          "tertialry": {
+            "value": "{colors.slate.350}",
+            "type": "color"
           }
         },
         "interaction": {
@@ -2465,6 +2469,10 @@
             "type": "color"
           },
           "disabled": {
+            "value": "{colors.slate.700}",
+            "type": "color"
+          },
+          "tertialry": {
             "value": "{colors.slate.700}",
             "type": "color"
           }
