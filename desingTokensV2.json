@@ -1774,7 +1774,8 @@
         "tag": {
           "primary": {
             "value": "{colors.slate.10}",
-            "type": "color"
+            "type": "color",
+            "description": "用于标签、标牌、消息通知等背景"
           },
           "secondary": {
             "value": "{colors.white.1000}",
@@ -2428,7 +2429,8 @@
         "tag": {
           "primary": {
             "value": "{colors.slate.800}",
-            "type": "color"
+            "type": "color",
+            "description": "用于标签、标牌、消息通知等背景"
           },
           "secondary": {
             "value": "{colors.slate.900}",
