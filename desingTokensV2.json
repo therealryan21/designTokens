@@ -1825,6 +1825,10 @@
           "tertialry": {
             "value": "{colors.slate.350}",
             "type": "color"
+          },
+          "quaternary": {
+            "value": "{colors.slate.250}",
+            "type": "color"
           }
         },
         "interaction": {
