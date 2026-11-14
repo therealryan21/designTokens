@@ -2238,7 +2238,7 @@
           },
           "warning": {
             "default": {
-              "value": "{colors.orange.900}",
+              "value": "{colors.orange.500}",
               "type": "color"
             },
             "warningdarker": {
