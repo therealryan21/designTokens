@@ -2561,7 +2561,7 @@
             "type": "color"
           },
           "secondary": {
-            "value": "{colors.orange.150}",
+            "value": "{colors.orange.800}",
             "type": "color"
           },
           "tertiary": {
