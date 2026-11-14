@@ -1788,6 +1788,10 @@
           "accent": {
             "value": "{colors.teal.75}",
             "type": "color"
+          },
+          "accent-darker": {
+            "value": "{colors.teal.95}",
+            "type": "color"
           }
         },
         "search": {
@@ -2442,6 +2446,10 @@
           },
           "accent": {
             "value": "{colors.teal.950}",
+            "type": "color"
+          },
+          "accent-darker": {
+            "value": "{colors.teal.900}",
             "type": "color"
           }
         },
