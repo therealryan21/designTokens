@@ -157,6 +157,11 @@
           "value": "#3c3e44",
           "type": "color"
         },
+        "850": {
+          "value": "#32343B",
+          "type": "color",
+          "description": "场用于按钮、卡片"
+        },
         "900": {
           "value": "#242529",
           "type": "color"
@@ -2157,7 +2162,7 @@
             "type": "color"
           },
           "tertiary": {
-            "value": "{colors.slate.950}",
+            "value": "{colors.slate.850}",
             "type": "color",
             "description": "用于卡片背景"
           },
